@@ -36,7 +36,7 @@ On a rare sunny February day in Portland, Torvalds demonstrates Git for a Wired 
 
 The old regime “makes it very hard to start radical new branches because you generally need to convince the people involved in the status quo up-front about their need to support that radical branch,” Torvalds says. “In contrast, Git makes it easy to just ‘do it’ without asking for permission, and then come back later and show the end result off — telling people ‘look what I did, and I have the numbers to show that my approach is much better.’”
 
-It may have been built for Linux, but Git quickly provide to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. 
+It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. 
 
 Git Without the ‘Pain in the Ass’
 
@@ -68,7 +68,7 @@ Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly m
 
 That may be true, but it hasn’t held the site back. GitHub users are seemingly everywhere. On recent afternoon in San Francisco’s North Beach neighborhood, Wired was discussing the site with GitHub director of engineering Ryan Tomayko. Suddenly the guy at the next table leaned over and interrupted, like a teenager overhearing two strangers talk about his favorite band. “I just have to tell you,” he said, “GitHub is amazing.”
 
-It’s even feeding the Occupy movement. When Jonathan Baldwin wanted to write a cell-phone version of the People’s Microphone, used by Occupy pass messages around big crowds, he posted his code straight to GitHub. The site let him share his code easily, and quickly connect with other developers to hammer out technical issues. “GitHub is the best thing ever. If you don’t host on GitHub, it doesn’t exist,” says Baldwin, a student at Parsons the New School for Design in New York.
+It’s even feeding the Occupy movement. When Jonathan Baldwin wanted to write a cell-phone version of the People’s Microphone, used by Occupy to pass messages around big crowds, he posted his code straight to GitHub. The site let him share his code easily, and quickly connect with other developers to hammer out technical issues. “GitHub is the best thing ever. If you don’t host on GitHub, it doesn’t exist,” says Baldwin, a student at Parsons the New School for Design in New York.
 
 And software is only part of the story. Geeks are learning that GitHub can help manage other projects as well. Books and even transcripts of talks have popped up on the site. One GitHub user, Manu Sporny, published his DNA information to the site last year, in the hope of spurring development of open-source DNA analysis software by providing real test data to analyze.
 
