@@ -18,7 +18,7 @@ Once you’ve heard about GitHub, you start to see it almost everywhere. Sometimes
 
 Git Without the ‘Pain in the Ass’
 
-The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
+The problem is that Git, the version control system that GitHub is based on, gets a bit complicated when you want to use its advanced features. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
 
 Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.
 
