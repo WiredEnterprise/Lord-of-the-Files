@@ -16,28 +16,6 @@ Once you’ve heard about GitHub, you start to see it almost everywhere. Sometimes
 
 “GitHub has changed the way that people approach development,” says Tom Preston-Werner, the company’s chief technology officer. “They realize that it doesn’t have to be so complex.”
 
-Git Scratches Itch
-
-Like so many other successful geek projects, GitHub began with coders scratching their own itch. About five years ago, Wanstrath and fellow programmer P.J. Hyett were both slinging code at Cnet, the tech news and reviews site. Their language of choice was Ruby on Rails, a programming framework that makes it easy to develop Web applications.
-
-As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.
-
-They weren’t the only developers chaffing under that Trusted Gatekeeper model of open source. A decade ago, Linus Torvalds found himself struggling to manage his role as gatekeeper of the Linux operating system he invented. In the beginning, Torvalds hosted Linux on a website belonging to the University of Helsinki. If people found a bug in the code, they’d send him a file with the changes via e-mail. If Torvalds read the e-mail and liked the changes, he’d incorporate them into Linux. But Torvalds is notorious for not reading all of his e-mail, so as the project got popular, more and more submissions were slipping through the cracks.
-
-This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.
-
-The Second Coming of Linus
-
-So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.
-
-Back in the 1990s, forking was supposed to be a bad thing. It’s what created all of those competing, incompatible versions of Unix. For a while, there was a big fear that someone would somehow create their own fork of Linux, a version of the operating system that wouldn’t run the same programs or work in the same way. But in the Git world, forking is good. The trick was to make sure the improvements people worked out could be shared back with the community. It’s better to let people fork a project and tinker away with their own changes, than to shut them out altogether by only letting a few trusted authorities touch the code.
-
-On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.
-
-The old regime “makes it very hard to start radical new branches because you generally need to convince the people involved in the status quo up-front about their need to support that radical branch,” Torvalds says. “In contrast, Git makes it easy to just ‘do it’ without asking for permission, and then come back later and show the end result off — telling people ‘look what I did, and I have the numbers to show that my approach is much better.’”
-
-It may have been built for Linux, but Git quickly provide to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce.
-
 Git Without the ‘Pain in the Ass’
 
 The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
