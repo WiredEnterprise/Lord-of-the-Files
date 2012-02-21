@@ -53,7 +53,7 @@ Fue el primero de muchos. En julio de 2008,  Microsoft adquirió Powerset, la sta
 
 “Daba un poco de miedo en ese tiempo rechazar algo así, pero no cambiaría nada de esa decisión en absoluto", dice ahora.
 
-Cuando Wired visitó las oficinas de GitHub’s a principios de este año, encontramos una suerte de paraiso geek. Hay un quacóptero controlado por un iPhone  y un "four-tap kegerator", una sala de conferencias que como una escenografía de bajo presupuesto de la sala de situaciones de la Casa Blanca, completa con unos enormes teléfonos rojos al estilo de los 1970s. Pero los juguetes no son lo que hacen a GitHub diferente. Es la abierta hostilidad de la startup a comando y control corporativo lo que la diferencia.
+Cuando Wired visitó las oficinas de GitHub’s a principios de este año, encontramos una suerte de paraiso geek. Hay un quacóptero controlado por un iPhone  y un dispensador de cerveza de cuatro grifos, una sala de conferencias que como una escenografía de bajo presupuesto de la sala de situaciones de la Casa Blanca, completa con unos enormes teléfonos rojos al estilo de los 1970s. Pero los juguetes no son lo que hacen a GitHub diferente. Es la abierta hostilidad de la startup a comando y control corporativo lo que la diferencia.
 
 “No llevamos un registro de los días de vacaciones, no tenemos registro de las horas. No nos importa", dice el CIO Scott Chacon. “He estado acá a la medianoche y hay cinco personas aquí. Y he estado al mediodía de un jueves y no hay nadie."
 
