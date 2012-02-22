@@ -25,7 +25,7 @@ En la medida que construían sus sitios en Cnet, Wanstrath y Hyett comenzaron a c
 
 Ellos no eran los únicos desarrolladores con problema con el modelo del Cuidador de Confianza del código abierto. Una década atrás, Linus Torvalds se encontraba lidiando con su rol de cuidador del sistema operativo Linux que él había inventado. En el principio, Torvalds alojó Linux en un sitio web que pertenecía a la Universidad de Helsinki. Si la gente encontraba un error en el código, le enviaban un archivo con los cambios vía email. Si Torvalds leía el email y le gustaban los cambios, el incorporaría los cambios en Linux. Pero Torvalds es conocido por no leer todos sus emails, así que en la medida que el proyecto se hacía popular, más y más propuestas se escurrían por las grietas.
 
-Este era el pequeño secreto sucio del software de código abierto. Con el proyecto de software libre promedio, grandes cantidades de código, quizás demasiado código, nunca llegaban a ser usadas. Era a menudo demasiado difícil para el usuario casual mostrarle a los desarrolladores los cambios que había hecho y después integrar fácilmente estos cambios de vuelta a la base de código.
+Este era el pequeño secreto sucio del software de fuente abierta. Con el proyecto de software libre promedio, grandes cantidades de código, quizás demasiado código, nunca llegaban a ser usadas. Era a menudo demasiado difícil para el usuario casual mostrarle a los desarrolladores los cambios que había hecho y después integrar fácilmente estos cambios de vuelta a la base de código.
 
 La Segunda Venida de Linus
 
