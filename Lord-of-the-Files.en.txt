@@ -60,7 +60,7 @@ And yet it’s the most productive software development team he’s ever worked 
 
 Git to the Future
 
-Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up for free and start contributing, but they pay money if they want to privately host code there — starting at $7 per month. GitHub also sells an enterprise product that lets companies run your own version of GitHub behind the corporate firewall. That starts at $5,000 per year, but can cost hundreds of thousands annually for companies with hundreds of coders.
+Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up for free and start contributing, but they pay money if they want to privately host code there — starting at $7 per month. GitHub also sells an enterprise product that lets companies run their own version of GitHub behind the corporate firewall. That starts at $5,000 per year, but can cost hundreds of thousands annually for companies with hundreds of coders.
 
 Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.
 
