@@ -46,7 +46,7 @@ Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project 
 
 At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.
 
-By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, a online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”
+By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”
 
 It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.
 
