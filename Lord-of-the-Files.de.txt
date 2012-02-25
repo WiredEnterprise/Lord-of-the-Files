@@ -26,7 +26,7 @@ Sie waren aber nicht die einzigen Entwickler, die unter dem Open-Source-Modell d
 
 Das war das offene Geheimnis der Open-Source-Softwareentwicklung. Bei den meisten Freie-Software-Projekten wurden große Teile des geschriebenen Codes nie verwendet. Oft war es für Außenstehende einfach zu schwierig, den Kernentwicklern ihre Änderungen zu zeigen und diese in die Codebasis zu integrieren.
 
-*Die Wiederkehr des Linus*
+*Die Wiederkunft des Linus*
 
 Aus diesem Grund entwickelte Torvalds im Jahr 2005 Git, eine Software zur Versionskontrolle, speziell dafür gestaltet, um den Overhead bei der Softwareprojektverwaltung zu minimieren. Mit Git kann jeder an seiner eigenen Version von Linux — oder jedem anderen Softwareprojekt — basteln und dann mit einem Knopfdruck die Änderungen mit Torvalds — oder auch jedem anderen — teilen. Es gibt keinen Wächter. Vereinfacht gesagt hat Torvalds ein Werkzeug entwickelt, das es einfach macht, eine alternative Version von Linux zu erstellen. Im Fachjargon nennt sich das dann “Fork” (dt. Weggabelung, Anm.).
 
