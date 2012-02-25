@@ -159,11 +159,11 @@ GitHub today is the darling of the open-source world, but this year, the company
 
 [[“I want to live in a world where it’s easier to work together than to work alone… where every part of the software development process is a joy,” says CEO Wanstrath. “And I think GitHub can help make that happen.]]
 
-“I want to live in a world where it’s easier to work together than to work alone… where every part of the software development process is a joy,” says CEO Wanstrath. “And I think GitHub can help make that happen.
+“Eu quero viver em um mundo onde é mais fácil trabalhar junto do que sozinho... onde toda parte do processo de desenvolvimento de software é uma diversão”, diz Wanstrath, CEO. “E eu acho que o GitHub pode ajudar a fazer isto acontecer". 
 
 [[SIDEBAR:]]
 
-SIDEBAR:
+BARRA LATERAL:
 
 [[Why Git? It’s the British slang term for stupid, despicable person — arse. The joke “I name all my projects for myself, first Linux, then git” was just too good to pass up. But it is also short, easy-to-say, and type on a standard keyboard. And reasonably unique and not any standard command, which is unusual.–Linus Torvalds]]
 
