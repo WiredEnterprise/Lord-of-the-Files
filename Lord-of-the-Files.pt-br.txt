@@ -35,11 +35,11 @@ Uma vez que se escute falar sobre GitHub, voce começa a ver em praticamente tod
 
 [[Git Scratches Itch]]
 
-Git Scratches Itch - Git Arranha Coceira?
+Git Arranha a Coceira
 
 [[Like so many other successful geek projects, GitHub began with coders scratching their own itch. About five years ago, Wanstrath and fellow programmer P.J. Hyett were both slinging code at Cnet, the tech news and reviews site. Their language of choice was Ruby on Rails, a programming framework that makes it easy to develop Web applications.]]
 
-Like so many other successful geek projects, GitHub began with coders scratching their own itch. About five years ago, Wanstrath and fellow programmer P.J. Hyett were both slinging code at Cnet, the tech news and reviews site. Their language of choice was Ruby on Rails, a programming framework that makes it easy to develop Web applications.
+Assim como outros projetos de geeks que tivemos sucesso, o GitHub começou com desenvolvedores arranhando a própria coceira. Aproximadamente 5 anos atrás, Wanstrath e seu amigo programador P.J. Hyett estavam desenvolvendo na Cnet, o site de notícias e reviews de tecnologia. A linguagem de escolha deles foi Ruby e o framework Rails, que facilitava o desenvolvimento de aplicações Web.
 
 [[As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.]]
 
