@@ -167,4 +167,4 @@ SIDEBAR:
 
 [[Why Git? It’s the British slang term for stupid, despicable person — arse. The joke “I name all my projects for myself, first Linux, then git” was just too good to pass up. But it is also short, easy-to-say, and type on a standard keyboard. And reasonably unique and not any standard command, which is unusual.–Linus Torvalds]]
 
-Why Git? It’s the British slang term for stupid, despicable person — arse. The joke “I name all my projects for myself, first Linux, then git” was just too good to pass up. But it is also short, easy-to-say, and type on a standard keyboard. And reasonably unique and not any standard command, which is unusual.–Linus Torvalds
+Porque Git? É uma gíria inglesa para estúpido, pessoa desprezível - burra. A piada "Eu nomeio todos meus projetos para eu mesmo, primeiro Linux e agora git" era boa demais para deixar passar. Mas também é pequeno, fácil de dizer e digitar em um teclado padrão. E razoavelmente único e não é nenhum comando padrão, o que não é comum.-Linus Torvalds
