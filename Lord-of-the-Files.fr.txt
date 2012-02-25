@@ -71,3 +71,19 @@ Ironiquement, les fan hardcore de GitHub n'incluent pas Torvalds, qui a brièvem
 C'est peut-être vrai, mais ça n'a pas retenu le site. Les utilisateurs de GitHub sont partout. Il y a peu de temps, un après-midi dans le voisinage de la San Francisco's North Beach, Wired était en train de parler du site avec le directeur de l'ingénierie de GitHub, Ryan Tomayko. Soudain le gars à la table d'à côté s'approcha et nous interrompit, comme un ado qui entend deux étrangers parler de son groupe favori. "Je voulais juste vous dire," dit-il, "Github est extraordinaire."
 
 Il sert même au mouvement Occupy. Quand Jonathan Baldwin a voulu écrire un version portable de People's Microphone, utilisé par Occupy pour passer des messages dans les grosses foules, il mit son code directement sur Github. Le site lui permis de partager son code facilement et de rapidement se connecter avec d'autres développeurs pour travailler sur les problèmes technique. "Github est la meilleure chose au monde. Si vous n'hébergez pas sur Github, ça n'existe pas," dit Baldwin, un étudiant a Parsons, la Nouvelle École du Design à New York.
+
+Et les logiciels sont seulement une partie de l'histoire. Les geeks apprennent que Github peut manager d'autres projets. Des livres et mêmes des transcriptions sont apparus sur le site. Un utilisateur de Github, Manu Sporny, a publié les informations de son ADN l'année dernière, dans l'espoir d'aider au développement d'un analyseur d'ADN open-source en fournissant des vraies données de test à analyser.
+
+Quand Scott Chacon a écrit un livre sur Git, le premier fork est apparu en moins d'un mois. C'était une traduction allemande de son livre. Maintenant, trois ans plus tard, il a été traduit en 10 langues, avec 10 autres traductions en cours. La moitié du trafic du site du livre vient de Chine. “Pleins de chinois apprennent Git car ils peuvent lire [le livre] en Chinois sur le site, car quelqu'un a fourni la traduction,” dit-il.
+
+Ryan Blair, un technologue du Sénat de l'état de New York, pense qu'il pourrait même donner au citoyens un moyen de former la loi, en proposant leurs propres amendements pour élire les officiels. Un outil comme Github rend également plus facile pour les constituants de garder une trace et même d'émettre leur opinions sur les changements complexes de lois. "Quand vous y pensez, une facture est une branche de la loi," dit-il. "Je suis juste amoureux de l'idée d'une personne envoyant une pull roquets à son sénateur."
+
+Github est aujourd'hui le compagnon de l'open-source, mais cette année, la compagnie a mis Microsoft dans son viseur, La compagnie à récemment engagé une paire de développeur du géant informatique, et travaille sur un nouveau logiciel pour amener l'armée de développeur qui utilise les outils Microsoft.
+
+"Je veux vivre dans un monde où il est plus facile de travailler en groupe que travailler seul … Où chaque partie du processus de développement est une joie," dit le CEO Wanstrath. "Et je pense  que Github peut aider à faire en sorte que ça arrive."
+
+SIDEBAR:
+
+Pourquoi Git? C'est le terme anglais pour une personne stupide et méprisable, un con. La blague "Je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git." était juste trop bonne pour être passée sous silence. Mais c'est aussi une façon courte et facile de taper sur un clavier standard. Et raisonnablement unique et pas de commande standard, ce qui est inhabituel. - Linus Torvalds
+
+And reasonably unique and not any standard command, which is unusual.–Linus Torvalds
