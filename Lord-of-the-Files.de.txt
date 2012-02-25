@@ -28,7 +28,7 @@ Das war das offene Geheimnis der Open-Source-Softwareentwicklung. Bei den meiste
 
 *Die Wiederkehr des Linus*
 
-Aus diesem Grund entwickelte Torvalds im Jahr 2005 Git, eine Software zur Versionskontrolle, speziell dafür gestaltet, um den Overhead bei der Softwareprojektverwaltung zu minimieren. Mit Git kann jeder an seiner eigenen Version von Linux — oder jedem anderen Softwareprojekt — basteln und dann mit einem Knopfdruck die Änderungen mit Torvalds — oder auch jedem anderen — teilen. Es gibt keinen Wächter. Vereinfacht gesagt hat Torvalds ein Werkzeug entwickelt, das es einfach macht, eine alternative Version von Linux zu erstellen. Im Fachjargon nennt sich das dann “Fork”, also Weggabelung.
+Aus diesem Grund entwickelte Torvalds im Jahr 2005 Git, eine Software zur Versionskontrolle, speziell dafür gestaltet, um den Overhead bei der Softwareprojektverwaltung zu minimieren. Mit Git kann jeder an seiner eigenen Version von Linux — oder jedem anderen Softwareprojekt — basteln und dann mit einem Knopfdruck die Änderungen mit Torvalds — oder auch jedem anderen — teilen. Es gibt keinen Wächter. Vereinfacht gesagt hat Torvalds ein Werkzeug entwickelt, das es einfach macht, eine alternative Version von Linux zu erstellen. Im Fachjargon nennt sich das dann “Fork” (dt. Weggabelung, Anm.).
 
 In den 90er-Jahren war “forken” noch etwas Böses. Es war schuld an den unzähligen zueinander inkompatiblen Versionen von Unix. Eine Zeit lang gab es die große Angst, dass jemand seine eigene Version von Linux abspalten könnte, eine Version des Betriebssystems, die nicht mehr die selben Programme verwendete oder auf die gleiche Art und Weise arbeitete. Aber in der Git-Welt ist “forken” etwas Gutes. Der Trick dabei war es sicherzustellen, dass die Verbesserungen, die die Leute vornahmen, wieder an die Community zurück gegeben werden konnten. Es ist besser, wenn Leute ein Projekt abspalten und an ihren eigenen Änderungen basteln, als sie komplett auszusperren und nur ein paar vertrauenswürdige Autoritätspersonen den Code bearbeiten zu lassen.
 
@@ -36,7 +36,7 @@ An einem der wenigen sonnigen Februartage in Portland demonstriert Torvalds Git 
 
 Im alten System “war es sehr schwer, einen radikalen neuen Branch (dt. Zweig, Anm.) anzufangen, weil die involvierten Leute zuvor davon überzeugt werden mussten, diesen radikalen Branch zu unterstützen”, sagt Torvalds. “Im Gegensatz dazu macht es Git einfach, die Änderungen vorzunehmen, ohne um Erlaubnis zu fragen, und dann später zurückzukommen und das Endresultat herzuzeigen – und den Leuten zu sagen: 'Schaut, was ich gemacht habe, und ich kann euch auch beweisen, dass mein Ansatz viel besser ist.’”
 
-Es mag für Linux gebaut worden sein, aber Git erwies sich bald zu einem Segen für jede große Organisation, die eine gigantische Code-Basis verwaltet. Heute nutzen es etwa Facebook, Staples, Verizon und sogar Microsoft. Bei Google ist Git so wichtig, dass das Unternehmen Junio Hamano – der das Projekt von Torvalds übernommen hat – dafür bezahlt, an Git zu arbeiten. Außerdem bezahlten sie auch noch das Gehalt seines Stellvertreters, Shawn Pearce.
+Es mag für Linux gebaut worden sein, aber Git erwies sich bald als Segen für jede Organisation, die eine große Code-Basis verwaltet. Heute nutzen es etwa Facebook, Staples, Verizon und sogar Microsoft. Bei Google ist Git so wichtig, dass das Unternehmen Junio Hamano – der das Projekt von Torvalds übernommen hat – dafür bezahlt, an Git zu arbeiten. Außerdem bezahlten sie auch noch das Gehalt seines Stellvertreters, Shawn Pearce.
 
 *Git doch ganz einfach*
 
@@ -54,17 +54,17 @@ Es war der erste von vielen. Im Juli 2008 kaufte Microsoft Powerset, das Startup
 
 Als Wired früher in diesem Jahr die Büros von GitHub besuchte, fanden wir eine Art Geek-Paradies. Da gab es einen iPhone-gesteuerten Quadrocopter, gekühltes Bier vom Fass, und einen Besprechungsraum, der an eine billige Kopie des Kontrollraums des Weißen Hauses erinnerte, inklusive einem massiven roten Telefon aus den 1970ern. Aber die Spielzeuge sind nicht das, was GitHub einzigartig macht. Es ist die offene Feindschaft des Startups gegenüber betrieblichen Kontrollsystemen, die es von anderen unterscheidet.
 
-“Wir machen keine Aufzeichnungen über Urlaubstage; wir schreiben keinen Stunden mit. So etwas interessiert uns nicht”, sagt CIO Scott Chacon. “Ich war schon um Mitternacht hier, und es waren noch fünf andere Leute da. Und einmal war ich an einem Donnerstag tagsüber alleine hier.”
+“Wir machen keine Aufzeichnungen über Urlaubstage; wir schreiben keinen Stunden mit. So etwas interessiert uns nicht”, sagt CIO Scott Chacon. “Ich war schon einmal um Mitternacht hier, und es waren noch fünf andere Leute da. Und einmal war ich an einem Donnerstag tagsüber alleine hier.”
 
 Und trotzdem ist es das produktivste Softwareentwicklungsteam, mit dem er jemals gearbeitet hat, sagt Chacon.
 
 *Git in die Zukunft*
 
-Preston-Werners Wette hat sich bezahlt gemacht. GitHub ist bereits profitabel. Benutzer können sich kostenlos anmelden und mitmachen, aber für Code, der nicht öffentlich zugänglich sein soll, müssen sie zahlen — $7 pro Monat oder mehr. GitHub verkauft außerdem ein betriebliches Produkt, mit dem Unternehmen ihre eigene Version von GitHub hinter der Firewall betreiben können. Das kostet mindestens $5.000 pro Jahr, kann aber für Unternehmen mit hunderten Entwicklern auch in die Hunderttausende gehen.
+Preston-Werners Entscheidung, auf GitHub zu setzen, hat sich bezahlt gemacht. GitHub ist bereits profitabel. Benutzer können sich kostenlos anmelden und mitmachen, aber für Code, der nicht öffentlich zugänglich sein soll, müssen sie zahlen — $7 pro Monat oder mehr. GitHub verkauft außerdem ein betriebliches Produkt, mit dem Unternehmen ihre eigene Version von GitHub hinter der Firewall betreiben können. Das kostet mindestens $5.000 pro Jahr, kann aber für Unternehmen mit hunderten Entwicklern auch in die Hunderttausende gehen.
 
 Ironischerweise zählt Torvalds nicht zu den eingefleischten Fans von GitHub. Er hatte die Entwicklung des Linux-Kernels letzten September nach einem Sicherheitsproblem beim alten System kurzzeitig zu GitHub gesiedelt. 
 
-“Ich mag GitHub sehr”, sagt er. “Es wurde nicht ohne Grund ziemlich schnell eines der größten Quellcode-Repositories.” Aber dann entrollt er eine lange Liste aller “gravierenden” Probleme, die auftraten, als er seinen Code auf der Website hostete — viele davon wurden mittlerweile behoben. Er konnte die Kommentare nicht filtern, das E-Mail-Interface verlor Anhänge, das Web-Interface brachte Code-Beiträge durcheinander, und so weiter. Fazit: GitHub macht das Programmieren einfach. Aber man kann auch sehr einfach viel Mist erzeugen.
+“Ich mag GitHub sehr”, sagt er. “Es wurde nicht ohne Grund ziemlich schnell eines der größten Quellcode-Repositories.” Aber dann entrollt er eine lange Liste aller “gravierenden” Probleme, die auftraten, als er seinen Code auf der Website hostete — viele davon wurden mittlerweile behoben. Er konnte die Kommentare nicht filtern, das E-Mail-Interface verlor Anhänge, das Web-Interface brachte Code-Beiträge durcheinander, und so weiter. Fazit: GitHub macht das Programmieren einfach. Aber man kann auch sehr einfach viel Mist bauen.
 
 Das mag zwar stimmen, aber es hat die Plattform nicht aufgehalten. GitHub-Benutzer finden sich offenbar überall. Kürzlich traf sich Wired mit GitHubs Entwicklungsleiter Ryan Tomayko an einem Nachmittag in San Franziskos North-Beach-Viertel. Plötzlich lehnte sich der junge Mann am Nachbartisch herüber und unterbrach, als ob er gerade gehört hätte, wie jemand über seine Lieblingsband sprach. “Ich muss euch einfach sagen”, sagte er, “Github ist fantastisch.”
 
@@ -76,7 +76,7 @@ Als Scott Chacon ein Buch über Git schrieb, erschien der erste Fork innerhalb e
 
 Ryan Blair, ein Technologe des New Yorker Staatssenats, glaubt, dass es Bürgern sogar eine Möglichkeit geben könnte, Gesetze zu überarbeiten und gewählten Volksvertretern ihre eigenen Änderungsanträge vorzuschlagen. Ein Werkzeug wie GitHub könnte es für Wähler auch einfacher machen, Änderungen an komplexer Gesetzesmaterie zu verfolgen und ihrer eigenen Meinungen Gehör zu verschaffen. “Wenn man darüber nachdenkt, ist eine Gesetzesvorlage nichts anderes als ein Branch des Gesetzes”, sagt er. “Ich finde die Idee großartig, dass ein Wähler seinem Senator einen Pull Request senden könnte.”
 
-Heute ist GitHub der Liebling der Open-Source-Welt, aber noch in diesem Jahr soll Microsoft anvisiert werden. Das Unternehmen hat kürzlich eine Handvoll Programmierer des Softwareriesen angeheuert, und es arbeitet an neuer Software, um die nach wie vor beachtliche Anzahl von Programmierern ins Boot zu holen, die Programme mit Microsofts Softwareentwicklungstools erstellen.
+Heute ist GitHub der Liebling der Open-Source-Welt, aber noch in diesem Jahr soll Microsoft anvisiert werden. GitHub hat kürzlich eine Handvoll Programmierer des Softwareriesen angeheuert, und es arbeitet an neuer Software, um die nach wie vor beachtliche Anzahl von Programmierern ins Boot zu holen, die Programme mit Microsofts Softwareentwicklungstools erstellen.
 
 “Ich möchte in einer Welt leben, in der es einfacher ist, zusammen zu arbeiten als alleine … wo jeder Schritt des Softwareentwicklungsprozesses Spaß macht”, sagt CEO Wanstrath. “Und ich denke, GitHub kann das möglich machen.”
 
