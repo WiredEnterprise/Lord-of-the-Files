@@ -4,7 +4,7 @@ por Robert McMillan, Wired Enterprise
 
 [[SAN FRANCISCO — When the founders of GitHub moved into their swank South-of-Market loft last year, the first thing they did was redecorate. They turned the floor’s biggest office into a parody of an executive suite — complete with fake fireplace, plush leather chairs, and a wooden globe that slides open to reveal a bottle of single malt scotch. Hanging from the wall is a painting of a cat, dressed as Napoleon, with five octopus-like legs. They call it the Octocat.]]
 
-SÃO FRANCISCO — Quando os fundadores do GitHub se mudaram para um loft ostentador no South-of-Market ano passado, a primeira coisa que fizeram foi redecorar. Eles transformaram o maior escritório do andar em uma suite executiva — com direito a lareira, cadeiras de couro peluciadas, e um globo de madeira que ao ser aberto revela uma garrafa de uísque de malte único. Na parede uma pintura de um gato, vestido como Napoleão, com pernas de polvo. Eles chamam de Octocat.
+SÃO FRANCISCO — Quando os fundadores do GitHub se mudaram para um loft ostentador no bairro South-of-Market ano passado, a primeira coisa que fizeram foi redecorar. Eles transformaram o maior escritório do andar em uma paródia de uma suite executiva — com direito a uma lareira falsa, cadeiras de couro peluciadas, e um globo de madeira que ao ser aberto revela uma única garrafa de uísque de malte. Na parede uma pintura de um gato, vestido como Napoleão, com pernas de polvo. Eles chamam de Octocat.
 
 
 [[The point is that it’s not an executive suite. It’s a communal meeting room where anyone can hang out with anyone else, get some work done, and have a little fun at the same time.]]
