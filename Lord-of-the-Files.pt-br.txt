@@ -27,7 +27,7 @@ E o mundo do software adora. O GitHub tem mais de 1.3 milhões de usuários, e m
 
 [[Once you’ve heard about GitHub, you start to see it almost everywhere. Sometimes, it’s hosting the code that underpins a big-name website. Other times, it’s driving a secret skunkworks project inside a Fortune 500 company. It has brought open source software that much closer to fulfilling its promise — but it doesn’t stop there. It’s also democratizing the creation of web pages and DNA analysis tools and maybe even the law of the land.]]
 
-Uma vez que se escute falar sobre GitHub, voce começa a ver em praticamente todo lugar. Algumas vezes é por hospedar código de um grande website. Outras vezes, é por manter em segredo projetos de empresas listadas na Fortune 500. Fez com que o software livre ficasse mais parecido com o que se propõe - mas não para por aí. GitHub tambem (possui aplicativos) possibilita a democratização e criação de páginas web, aplicativos de análise de DNA e até mesmo sobre os gramados da terra.
+Uma vez que se escuta falar sobre GitHub, voce começa a vê-lo em praticamente todo lugar. Algumas vezes está hospedando o código que sustenta algum website de renome. Outras vezes, está mantendo algum projeto secreto de empresas listadas na Fortune 500. O GitHub fez com que o software livre chegasse mais perto da sua promessa inicial - mas não para por aí. Também está democratizando a criação de páginas web e aplicativos para análise de DNA e até mesmo a lei da terra.
 
 [[“GitHub has changed the way that people approach development,” says Tom Preston-Werner, the company’s chief technology officer. “They realize that it doesn’t have to be so complex.”]]
 
