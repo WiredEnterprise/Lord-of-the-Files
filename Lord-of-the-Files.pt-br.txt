@@ -155,7 +155,7 @@ Ryan Blair, a technologist with the New York State Senate, thinks it could even 
 
 [[GitHub today is the darling of the open-source world, but this year, the company has set its sights on Microsoft. The company recently hired a pair of developers from the software giant, and it’s working on new software to rope in the still-considerable army of coders who write programs using Microsoft’s software development tools.]]
 
-GitHub today is the darling of the open-source world, but this year, the company has set its sights on Microsoft. The company recently hired a pair of developers from the software giant, and it’s working on new software to rope in the still-considerable army of coders who write programs using Microsoft’s software development tools.
+GitHub é hoje a queridinha do mundo open source, mas neste ano, a empresa está olhando para a Microsoft. A empresa recentemente contratou um par de desenvolvedores que vieram da gigante de software, e está trabalhando em um novo software para engajar a grande comunidade que desenvolve software usando as ferramentas de desenvolvimento da Microsoft. 
 
 [[“I want to live in a world where it’s easier to work together than to work alone… where every part of the software development process is a joy,” says CEO Wanstrath. “And I think GitHub can help make that happen.]]
 
