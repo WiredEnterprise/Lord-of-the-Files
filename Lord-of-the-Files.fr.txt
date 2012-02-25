@@ -1,0 +1,14 @@
+Sa Majesté Des Fichiers: Comment Github a apprivoisé le logiciel libre (et plus)
+
+Par Robert McMillan, Wired Enterprise
+
+SAN FRANCISCO - Quand les fondateurs de Github ont emménagé dans leurs loft du South-Of-Market, la première chose qu'ils ont fait fût redécorer. Ils ont transformé le plus gros bureau de l'étage en une parodie de suite exécutive - incluant une fausse cheminée, des chaises en cuirs à fanfreluches et un globe en bois qui révèle une bouteille de scotch single malt lorsqu'on l'ouvre. Accroché au mur, un tableau d'un chat. habillé comme Napoléon, avec cinq jambes-tentacules. Ils l'appellent l'Octocat.
+
+Mais ce n'est pas une suite exécutive. C'est une salle de réunion commune où tout le monde peut trainer avec n'importe qui, travailler et s'amuser en même temps.
+
+“Everybody can bring their friends into that room and sort of impress them and stuff,” says Scott Chacon, GitHub’s CIO co-founder. You see, Chacon and CEO Chris Wanstrath and the rest of the executive team don’t have private offices. They work on the open floor next to the coders, glued to monitors with the rest of the staff, listening to LCD Soundsystem. Loud.
+
+"Tout le monde peut amener ses amis et les impressionner, ce genre de choses," dit Scott Chacon, DSI et co-fondateur de Github. En fait, Chacon et le directeur Chris Wanstrath ainsi que le reste de l'équipe exécutive n'ont pas de bureaux privés. Ils travaillent dans l'open space, à côté des développeurs, collés aux écrans comme le reste du staff, écoutant le LCD Soundsystem. Fort.
+
+Le loft de 13000 mètre carrés de Github reflète sa mission: démocratiser le développement informatique. Github.com peut-être défini comme un Facebook pour geeks. Au lieu d'uploader des vidéos de son chat, on upload des programmes. N'importe qui peut commenter votre code, y faire des ajouts et en faire quelque chose de meilleur. L'astuce est de décentraliser la programmation, et donner à tous une nouvelle façon de la contrôler. Github a transformé la façon dont les programmes sont écrits, transformant le code en quelque chose d'un peu plus anarchique, un peu plus amusant, et beaucoup plus productif.
+
