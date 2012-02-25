@@ -1,4 +1,4 @@
-Sa Majesté Des Fichiers: Comment Github a apprivoisé le logiciel libre (et plus)
+Sa Majesté Des Fichiers: Comment Github a dompté le logiciel libre (et bien plus)
 
 Par Robert McMillan, Wired Enterprise
 
@@ -20,7 +20,7 @@ Une fois que vous avez commencé à entendre parler de Github, vous commencez à
 
 Git Scratches Itch
 
-Comme beaucoup d'autre projets geek à succès, Github commence avec des développeurs remplissant leurs besoins. Il y a environ cinq ans, Wanstrath et un de ses amis développeurs P.J. Hyett écrivaient tous deux du code à Cent, un site de news et de reviews technologique. Leur outil de prédilection était le framework web Ruby On Rils, qui permet de créer facilement des applications web.
+Comme beaucoup d'autre projets geek à succès, Github commence avec des développeurs travaillant dans leur coin. Il y a environ cinq ans, Wanstrath et un de ses amis développeurs P.J. Hyett écrivaient tous deux du code à Cent, un site de news et de reviews technologique. Leur outil de prédilection était le framework web Ruby On Rils, qui permet de créer facilement des applications web.
 
 Alors qu'ils construisaient leur site sur Cnet, Wanstrath et Hyett commencèrent à faire beaucoup d'améliorations à Ruby On Rails lui-même. Mais ils trouvèrent qu'il n'était pas simple d'avoir ces changements intégrés dans le projet open-source lui-même. Suivant le modèle alors dominant du développement open-source, Rails était encadré par un ensemble de développeurs de confiance qui avait la permission de "commiter" des changements sur le code source du projet. Pour avoir un de leur changement ajouter au code central,  Wanstrath et Hyett devaient convaincre un de ces développeurs que leurs changements valaient la peine d'être intégré. Cela demandait souvent plus de travail qu'écrire le code lui-même.
 
@@ -42,3 +42,32 @@ Même si il a été créé pour Linux, Git c,est rapidement envoyé comme un env
 
 Git sans "avoir mal au cul"
 
+Le problème est que tout le monde n,est pas Linus Torvalds, et toutes les entreprises ne sont pas Google. Pour les 99%, l'interface en ligne de commande de Git est difficile à utiliser. C'est là que Github arrive. Il simplifie Git. Énormément. Son premier slogan était :  “Git hosting: No longer a pain in the ass.” (Hébergement Git: Ça ne vous fera plus jamais mal au cul).
+
+Tom Preston-Werner rêva de Github et embrigada Chris Wanstrath dans le projet une nuit d'Octobre 2007 à un meet-up de développeur au Zeke, un bar de sport de San Francisco, à quelques blocs du stade où les San Francisco Giants jouent.
+
+Au début, Github n'était qu'un projet parallèle. Wanstrath et Preston-Werner se voyait les samedi pour réfléchir, pendant qu'ils codaient sur leur temps libre et durant leurs jours de travail. "Github n'était pas supposé devenir une start-up ou une entreprise. Github était juste un outil dont on avait besoin," dit Wanstrath. Mais, inspiré par Gmail, ils mirent le projet en beta privé et l'ouvrir aux autres. Rapidement, il attira l'attention du monde extérieur.
+
+En janvier 2008, Hyett était à bored. Et trios mois après cette rencontre dans le bar des sports, Wanstrath eu un message de Geoffrey Grosenbach, le fondateur de PeepCode, un site d'apprentissage en ligne qui utilisait GitHub. “J'héberge le code de mon entreprise ici,” dit Grosenbach. “Ça me met mal à l'aise de pas vous payer les gars. Je peux pas juste vous envoyer un chèque ?”
+
+C'était le premier dune longue série. En juillet 2008, Microsoft acquis Powerset, la start-up qui fournissait un travail de jour à Preston-Werne. Le géant de l'informatique offrit à Preston-Werner un bonus de 300,000 dollars et des stock options pour rester trois ans de plus. Mais il partit, misant tout sur Github.
+
+“C'était un peu effrayant à ce moment d'abandonner quelque chose comme ça, mais je voudrais changer cette décision pour rien au monde,” dit-il maintenant.
+
+Quand Wired a visité les bureaux de GitHubplus tôt cette année, nous avons découvert un morceau de paradis pour geeks. Il y a un quadcopter contrôlé par iPhone et un "four-tap kegerator", et one réplique à bas-budget de la salle d'urgence de la Maison Blanche, complété par un téléphone rouge des années 70. Mais les jouets ne sont pas ce qui font de Github une compagnie à part. C'est l'hostilité contre le système d'entreprise "commande et contrôle"  qui la met vraiment à part.
+
+“On ne garde pas de traces des jours de vacances; on ne fait pas un compete des heures. Ça n,set pas important pour nous,” dit le DSI Scott Chacon. “J'ai été ici à minuit et trouver cinq personnes dans les locaux. Et j'ai été ici un jeudi au milieu de la journée sans voir personne.”
+
+Et pourtant, c'est une des équipes de développement les plus productives avec qui il ait travaillé, confie Chacon.
+
+Git vers le futur
+
+Le pari de Preston-Werner a payé. GitHub set main tenant profitable. Les utilisateurs peuvent s'inscrire gratuitement et commencer à contribuer, maps ils doivent payer s'ils violent héberger leur code de façon privé, en commençant à 7$ par mois. GitHub vend aussi aux enterprises un product qui leur permet de faire tourney leur proper version de Github derrière leurs firewalls. Le prix commence à 500$ par mois, mais peut coûter des centaines de milliers par ans pour les compagnies avec des centaines de développeurs.
+
+Ironiquement, les fan hardcore de GitHub n'incluent pas Torvalds, qui a brièvement mis le développement du kernel Linux chez GitHub en septembre dernier suite à une faille de sécurité à son ancienne localisation.
+
+“J'aime beaucoup  Github,” dit-il. “Il y a une raison pour laquelle il est devenu one des plus gross sources d'hébergement de code source aussi rapidement.” Mais il développe ensuite one longue liste des problèmes “sérieux” qu'il a en hébergeant du code sur le site — don't beaucoup ont été réparé depuis. Il ne pouvait pas filtrer les commentaires, l'interface des e-mails supprimait les pièces jointes, l'interface web buggait les contributions, et ainsi de suite. L'explication sous-jacente: GitHub rend facile de coder. Mais cela rend aussi facile de générer des bêtises.
+
+C'est peut-être vrai, mais ça n'a pas retenu le site. Les utilisateurs de GitHub sont partout. Il y a peu de temps, un après-midi dans le voisinage de la San Francisco's North Beach, Wired était en train de parler du site avec le directeur de l'ingénierie de GitHub, Ryan Tomayko. Soudain le gars à la table d'à côté s'approcha et nous interrompit, comme un ado qui entend deux étrangers parler de son groupe favori. "Je voulais juste vous dire," dit-il, "Github est extraordinaire."
+
+Il sert même au mouvement Occupy. Quand Jonathan Baldwin a voulu écrire un version portable de People's Microphone, utilisé par Occupy pour passer des messages dans les grosses foules, il mit son code directement sur Github. Le site lui permis de partager son code facilement et de rapidement se connecter avec d'autres développeurs pour travailler sur les problèmes technique. "Github est la meilleure chose au monde. Si vous n'hébergez pas sur Github, ça n'existe pas," dit Baldwin, un étudiant a Parsons, la Nouvelle École du Design à New York.
