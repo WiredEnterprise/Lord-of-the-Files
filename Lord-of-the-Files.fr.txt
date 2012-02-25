@@ -27,3 +27,18 @@ Alors qu'ils construisaient leur site sur Cnet, Wanstrath et Hyett commencèrent
 Ils n'étaient pas les seuls développeurs à souffrir de ce modèle des "Gardiens de Confiance" de l'open source. Une décennie plus tôt, Linus Torvalds se trouva lui-même à étouffer dans son rôle de gardien de l'OS qu'il avait inventé: Linux. Au début, Torvalds hébergeait le code sur un site appartenant à l'université d'Helsinki. Si les gens trouvaient un bug dans le code, ils lui envoyaient un fichier avec les changements par e-mail. Si Torvalds lisait l'e-mail et aimait les changements, il les incorporaient à Linux. Mais Torvalds est connu pour ne pas lire ses e-mails, et ainsi, plus le projet devenait populaire, de plus en plus de soumissions échappaient à son créateur.
 
 C'était le petit secret honteux du monde de l'open-source. Avec la quantité de projets de programmes gratuit, une grosse partie du code - voir même peut-être la majorité du code - n'était en fait jamais utilisé. Il était souvent juste trop dur pour les utilisateurs occasionnels de montrer aux développeurs les changements fait et de "merger" facilement ceux-ci dans le code source de base.
+
+La deuxième arrivée de Linux
+
+Alors en 2005, Torvalds créa Git, un logiciel de contrôle de version destiné à éloigner tout le travail du management d'un projet de logiciel. En utilisant Git, n'importe qui peut bricoler sa propre version de Linux, ou de n'importe quel logiciel, et ainsi, en un seul clic, partager ses changements avec Torvalds ou n'importe qui d'autre. Il n'y a plus de gardiens. En termes pratique, Torvalds a créé un outil qui rend facile pour tout le monde de créer une alternative à son projet. En terme technique, c'est un "fork".
+
+Dans les années 90, "former" était une mauvaise chose. C'est ce qui avait créé toutes ces versions incompatibles et en concurrence d'Unix. pendant un moment, il y eu une grand peur que quelqu'un créa, d'une façon ou d'une autre, son propre fork de Linux, une version de l'OS qui n'utiliserait pas les mêmes programmes ou ne fonctionnerait pas de la même manière. Mais dans le monde de Git, former est une bonne chose. L'astuce est de vérifier que les ajouts des gens peuvent être partagés avec le reste de la communauté. C'est mieux de laisser les gens former le projet de bidouiller avec leurs propres changements, plutôt que de leur fermer la porte et ne laisser que quelques autorités toucher au code.
+
+Un de ces rare jours de soleil en Février à Portland, Torvalds fit une démonstration de Git for Wired à la maison mère. Avec quelques combinaisons de touches, il trouva rapidement deux nouvelles soumissions au kernel qui changeait la même portion de code de manières différentes, une source de problèmes potentielle.
+
+Le vieux régime "rendaient très dur de créer de nouvelles branches, parce que vous devez généralement convaincre les personnes impliquées dans le statu quo de leur besoin de supporter cette branche radicale," dit Torvalds. "Au contraire, Git rend facile de juste 'le faire' sans demander la permission, de revenir plus tard et montrer le résultat, en disant aux gens 'regardez ce que j'ai fais, j'ai des chiffres pour montrer que mon approche est meilleure.'"
+
+Même si il a été créé pour Linux, Git c,est rapidement envoyé comme un envoyé de Dieu pour les compagnies utilisant de grosses codebase. Aujourd'hui, Facebook, Staples, Verizon et même Microsoft sont utilisateurs. Chez Google, Git est si important que l'entreprise paye Junio Hamano, qui a pris la suite du projet de Torvalds, pour travailler sur Git à plein temps, et paye aussi le second en chef, Shawn Pierce.
+
+Git sans "avoir mal au cul"
+
