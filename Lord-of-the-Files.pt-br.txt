@@ -51,7 +51,7 @@ Eles não eram os únicos desenvolvedores impacientes que precisavam de um inter
 
 [[This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.]]
 
-This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.
+Esse era o segredo escuso do software livre. Como a média dos projetos de software livre, grandes quantidades de código - talvez até maioria do código - nunca foi de fato utilizado. Normalmente era muito díficil para que os usuários mostrassem aos desenvolvedor as suas alterações e que eles integrassem as alterações de volta ao respositório que continha o código do projeto open-source.
 
 [[The Second Coming of Linus]]
 
