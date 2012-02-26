@@ -67,7 +67,7 @@ Em 1990, forking era considerado uma coisa ruim. Foi o que criou toda a competi�
 
 [[On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.]]
 
-On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.
+Em um raro dia ensolarado em Fevereiro na cidade de Portland, Torvalds demonstrou Git para Wired no seu home-office. Com apenas algumas teclas, ele rapidamente identificou duas novas submissões de kernal que alteraram código fonte relacionado ao kernal de maneiras diferentes, seria uma possível fonte de problemas.
 
 [[The old regime “makes it very hard to start radical new branches because you generally need to convince the people involved in the status quo up-front about their need to support that radical branch,” Torvalds says. “In contrast, Git makes it easy to just ‘do it’ without asking for permission, and then come back later and show the end result off — telling people ‘look what I did, and I have the numbers to show that my approach is much better.’”]]
 
