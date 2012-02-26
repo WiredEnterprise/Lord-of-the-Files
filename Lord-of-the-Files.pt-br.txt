@@ -75,7 +75,7 @@ The old regime “makes it very hard to start radical new branches because you g
 
 [[It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. ]]
 
-It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. 
+Ele pode ter até ter sido criado para o Linux, mas o Git rapidamente provou ser uma dádiva para qualquer grande organização que gerencia grandes code bases. Hoje, Facebook, Staples, Verizon e até a Microsoft são usuários. No Google, o Git é tão importante que a empresa paga Junio Hamana - que assumiu o controle do projeto de Torvalds - para trabalhar no Git em tempo integral, e também paga o salário do segundo homem no comando do projeto, Shawn Pearce.
 
 [[Git Without the ‘Pain in the Ass’]]
 
