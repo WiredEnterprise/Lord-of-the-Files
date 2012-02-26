@@ -55,11 +55,11 @@ Esse era o segredo escuso do software livre. Como a média dos projetos de softw
 
 [[The Second Coming of Linus]]
 
-The Second Coming of Linus
+A segunda aparição de Linus
 
 [[So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.]]
 
-So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.
+Então em 2005, Torvalds criou Git, um software para controle de versão projetado específicamente para remover o árduo trabalho de gerenciar projetos de software livre. Usando Git, qualquer um poderia trabalhar com a sua própria versão do Linux - ou de qualquer outro projeto de software - e então, com o clique de um botão, compartilhar essas alterações com Torvalds ou qualquer outra pessoa. Não existe nenhum guardião do código fonte. Em termos práticos, Torvalds criou uma ferramenta que possibilita e facilita que outras pessoas criem versões alternativas do seu projeto Linux. Em termos técnicos, chamamos isto de criar um "fork".
 
 [[Back in the 1990s, forking was supposed to be a bad thing. It’s what created all of those competing, incompatible versions of Unix. For a while, there was a big fear that someone would somehow create their own fork of Linux, a version of the operating system that wouldn’t run the same programs or work in the same way. But in the Git world, forking is good. The trick was to make sure the improvements people worked out could be shared back with the community. It’s better to let people fork a project and tinker away with their own changes, than to shut them out altogether by only letting a few trusted authorities touch the code.]]
 
