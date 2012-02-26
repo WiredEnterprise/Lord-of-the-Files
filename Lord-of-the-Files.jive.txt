@@ -1,0 +1,86 @@
+Lo'd uh de Stashs, dig dis: How GitHub Tamed Free Software (And Mo'e) 
+
+By Leroy McMillan, Wired Enterprise 
+
+SAN FRANCISCO — When de founders uh GitHub moved into deir swank Soud-of-Market loft last year, de fust doodad dey dun did wuz redeco'ate. Dey turned da damn floo'’s biggest office into some parody uh an 'esecutive suite — complete wid fake fireplace, plush leada' chairs, and some wooden globe dat slides jimmey to reveal some bottle uh sin'le malt scotch. Lop some boogie. Hangin' fum de wall be a paintin' uh a cat, dressed as Napoleon, wid five octopus-likes legs. Dey call it da damn Octocat. Man! 
+
+De point be dat it’s not an 'esecutive suite. It’s some communal meetin' room where any sucka kin hang out wid any sucka else, dig some wo'k done, and gots some little fun at da damn same time. 
+
+“Everybody kin brin' deir homeys into dat room and radical impress dem and stuff,” says Scott Chacon, GitHub’s CIO co-founder. Ah be baaad... You's see, Chacon and CEO Chris Wanstrad and da damn rest uh de 'esecutive team don’t gots private offices. Dey wo'k on de jimmey floo' next t'de coders, glued t'monito's wid de rest uh de staff, listenin' t'LCD Soundsystem. WORD! Loud. 
+
+GitHub’s geektastic 14,000-square-foot loft mirro's its mission, dig dis: to democratize clunker honky codemin'. GitHub. Co' got d' beat!com be best dought uh as Facescribblin' fo' geeks. Instead uh uploadin' videos uh yo' cat, ya' download software. Any sucka kin comment on yo' code and add t'it and build it into sump'n better. Ah be baaad... De trick be dat it decentralizes honky codemin', givin' everyone some new kind'a control. GitHub gots shaken down de way software digs written, makin' codin' some little mo'e anarchic, some little mo'e fun, and some lot mo'e productive. 
+
+And da damn software wo'ld loves it. Man! GitHub now gots mo'e dan 1.3 million users, and upside 2 million source code reposito'ies — eight times de tally fum plum two years ago. 'S coo', bro. If ya' count snippets uh code and Wiki pages dat is sto'ed on de site, dere is mo'e dan 4 million reposito'ies. Two years ago, GitHub wuz some team uh eight, holdin' company meetin's in San Francisco cafes. By de beginnin' uh 2011, dey’d grown t'14 “hubbernauts” — as GitHub employees is affecshunately called — and some year later, dey’re at 57. In July, dey took upside de fo'ma' digs uh bloggin' outfit Six Apart. Man! GitHub be growin' fast — and it hasn’t snatchn some dime uh venture fundin'. 
+
+Once ya'’ve heard about GitHub, ya' start t'see it mos' everywhere. Sometimes, it’s hostin' de code dat underpins some big-dojigger website. Oda' times, it’s drivin' some secret skunkwo'ks project inside some Fo'tune 500 company. Slap mah fro! It gots brought jimmey source software dat much closa' to fulfillin' its promise — but it duzn’t stop dere. It’s also democratizin' de creashun uh web pages and DNA analysis tools and maybe even de law uh de land. 
+
+“GitHub gots changed da damn way dat sucka's approach development,” says Tom Preston-Werner, de company’s chief technology officer. Ah be baaad... “Dey realize dat it duzn’t gots'ta be so's complex. Slap mah fro!” 
+
+Git Scratches Itch 
+
+Like so's many oda' successful geek projects, GitHub began wid coders scratchin' deir own itch. Lop some boogie. About five years ago, Wanstrad and dude honky codema' P.J. Hyett wuz bod slin'in' code at Cnet, de tech news and reviews site. Deir language uh choice wuz Ruby on Rails, some honky codemin' framewo'k dat makes it easy t'develop Web applicashuns. 
+
+As dey built out deir sites at Cnet, Wanstrad and Hyett wound down makin' some lot uh improvements t'Ruby on Rails itself. But dey found it wuzn’t so's easy t'get dose changes integrated back into de open-source project. Man! Followin' de den-dominant model uh jimmey source development, Rails wuz managed by some cadre uh trusted coders who’d been given puh'mission t'“commit” changes t'de project’s source code. To dig one uh deir changes added t'de central code, Wanstrad and Hyett would gots'ta lobby one uh dose trusted coders and convince him dat deir change wuz wo'd integratin'. Dat wuz often mo'e wo'k dan writin' de code in de fust place. 
+
+Dey wuzn’t da damn only developuh's chafin' unda' dat Trusted Gatekeepuh' model uh jimmey source. A decade ago, Linus To'valds found himself strugglin' t'manage his role as gatekeepuh' uh de Linux opuh'tin' system he invented. In de beginnin', To'valds hosted Linux on some website belongin' t'de University uh Helsinki. If sucka's found some bug in de code, dey’d drow him some stash wid de changes via e-mail. If To'valds eyeball de e-mail and likesd da damn changes, he’d inco'po'ate dem into Linux. Slap mah fro! But To'valds be noto'ious fo' not eyeballin' all uh his e-mail, so's as de project gots popular, mo'e and mo'e submissions wuz slippin' drough de cracks.
+
+Dis wuz de dirty little secret uh open-source software. Wid de average free software project, large amounts uh code — maybe even most code — neva' actually gots used. It wuz often plum too hard fo' casual users t'show developuh's de changes dey’d made and den easily merge dose changes back into de open-source code base. 
+
+De Second Comin' uh Linus 
+
+So's in 2005, To'valds created Git, version control software specifically designed t'snatch away de busywo'k uh managin' some software project. Man! Usin' Git, any fool kin tinka' wid deir own version uh Linux — o' indeed any software project — and den, wid some push uh a button, share dose changes wid To'valds o' any sucka else. Dere be no gatekeepuh'. In practical terms, To'valds created some tool dat makes it easy fo' some sucka t'create an alternative t'his Linux project. Man! In technical terms, dat’s called some “fo'k. Ya' know?” 
+
+Back in de 1990s, fo'kin' wuz supposed t'be some baaaad doodad. It’s whut created all uh dose competin', incompatible versions uh dat slow mo-fo. Fo' some while, dere wuz some big fear dat some sucka would somehow create deir own fo'k uh Linux, some version uh de opuh'tin' system dat wouldn’t run de same honky codes o' wo'k in de same way. Slap mah fro! But in de Git wo'ld, fo'kin' be baaaad. De trick wuz t'make sho' man de improvements sucka's wo'ked out could be shared back wid de community. Slap mah fro! It’s betta' to let sucka's fo'k some project and tinka' away wid deir own changes, dan t'shut dem out altogeda' by only lettin' some few trusted audo'ities touch de code. 
+
+On some rare sunny February day in Po'tland, To'valds demonstrates Git fo' Wired at his crib office. Wid some few keystrokes, he quickly spots two new kernel submissions dat change da damn same kernel code in different ways, some potential problem source. 
+
+De old regime “makes it real hard t'start radical new branches cuz' ya' generally need t'convince da damn sucka's involved in de status quo down-front about deir need t'suppo't dat radical branch,” To'valds says. “In contrast, Git makes it easy t'plum ‘do it’ widout ax'in' fo' puh'mission, and den mosey on down back lata' and show de end result off — tellin' sucka's ‘look whut ah' dun did, and ah' have da damn numbers t'show dat mah' approach be much better. Ah be baaad...’” 
+
+It may gots been built fo' Linux, but Git quickly proved t'be some goddrow fo' any large o'ganizashun managin' giant code bases. Today, Facescribblin', Staples, Verizon and even Microsoft is users. At Google, Git be so impo'tant dat da damn company pays Junio Hamano – who took upside de project fum To'valds – t'wo'k on Git full-time, and also pays de salary fo' de project’s second-in-command, Shawn Pearce. 
+
+Git Widout da damn ‘Pain in de Ass’ 
+
+De problem be dat not everyone be Linus To'valds, and not every company be Google. Fo' de 99 puh'cent, Git’s command-line interface be noto'iously difficult t'use. Dat’s where GitHub comes in. 'S coo', bro. It simplifies Git. Man! A lot. Man! Its fust slogan wuz, dig dis: “Git hostin', dig dis: No longa' a pain in de ass.” 
+
+Tom Preston-Werna' dreamed down GitHub and roped Chris Wanstrad into de project one night in Octoba' 2007 at some coder’s meet-up at Zeke’s, some San Francisco spo'ts bar some few blocks fum de waaay downtown stadium where da damn San Francisco Giants play. Slap mah fro! 
+
+At fust, GitHub wuz some side project. Man! Wanstrad and Preston-Werna' would meet on Saturdays t'brainsto'm, while codin' durin' deir free time and wo'kin' deir day jobs. “GitHub wuzn’t supposed t'be some startup o' some company. Slap mah fro! GitHub wuz plum a tool dat we needed,” Wanstrad says. But — inspired by Gmail — dey made da damn project some private beta and jimmey'd it down t'oders. Soon it caught on wid de outside wo'ld. 
+
+By January uh 2008, Hyett wuz on bo'd. And dree monds afta' dat night in de spo'ts bar, Wanstrad gots some message fum Geoffrey Grosenbach, de founda' of PeepCode, an online learnin' site dat had started usin' GitHub. Co' got d' beat! “I’m hostin' mah' company’s code here,” Grosenbach said. “I don’t feel comfo'table not-payin' ya' dudes. Can ah' plum drow some check?” 
+
+It wuz de fust uh many. Slap mah fro! In July 2008, Microsoft acquired Powerset, de startup dat wuz providin' Preston-Werna' wid some day job. Co' got d' beat! De software giant offered Preston-Werna' a $300,000 bonus and stock opshuns t'stay on bo'd fo' anoda' dree years. But he quit, bettin' everydin' on GitHub. Co' got d' beat! 
+
+“It wuz some little scary at da damn time t'cut up sump'n likes dat, but ah' would not change nuthin about dat decision at all,” he says now, so cut me some slack, Jack. 
+
+When Wired visited GitHub’s offices earlia' dis year, we found some bit uh a geeks’ paradise. Dere’s an iPhone-controlled quadcopta' and some foe-tap kegerato', and some conference room dat’s some low-budget knockoff uh de Honky Crib’s situashun room, complete wid some massive 1970's style red phone. But da damn toys aren’t whut makes GitHub different. Man! It’s de startup’s outright hostility toward co'po'ate command-and-control dat real sets it apart. Man! 
+
+“We don’t keep track uh vacashun days; we don’t keep track uh hours. It duzn’t matta' to us,” says CIO Scott Chacon. 'S coo', bro. “I’ve been here at midnight and dere is five sucka's here. And I’ve been here in de middle uh de day on some Dursday and dere’s nobody here.” 
+
+And yet it’s de most productive software development team he’s eva' wo'ked on, Chacon says. 
+
+Git t'de Future 
+
+Preston-Werner’s bet gots paid off. GitHub be now profitable. Users kin sign down fo' free and start contributin', but dey pay bre'd if dey wanna privately host code dere — startin' at $7 puh' mond. GitHub also sells an enterprise product dat lets companies run deir own version uh GitHub behind da damn co'po'ate firewall. Dat starts at $5,000 puh' year, but kin cost hundreds uh dousands annually fo' companies wid hundreds uh coders. 
+
+Ironically, dough, GitHub’s die-hard fans don’t include To'valds, who briefly moved Linux kernel development t'GitHub last Septemba' followin' some security breach at its old crib. 
+
+“I likes GitHub some lot,” he says. “Dere’s some reason it became one uh de biggest source code reposito'ies rada' quickly. Slap mah fro!” But he den unfurls some long list uh all de “serious” problems he had wid it when he hosted his code on de site — many uh which gots since been fixed. He couldn’t filta' comments, de e-mail interface dropped attachments, de web interface messed down code contribushuns, and so's on. 'S coo', bro. De bottom line, dig dis: GitHub makes it easy t'code. But it kin also make it easy t'generate crap. Jes hang loose, brud. 
+
+Dat may be true, but it hasn’t held da damn site back. Ya' know? GitHub users is seemin'ly everywhere. One recent afternoon in San Francisco’s No'd Beach neighbo'hood, Wired wuz discussin' de site wid GitHub directo' uh engineerin' Ryan Tomayko. 'S coo', bro. Suddenly de dude at da damn next table leaned upside and interrupted, likes some teenaga' overhearin' two strangers rap about his favo'ite band. “I plum have t'tell ya',” he said, “GitHub be amazin'.” 
+
+It’s even feedin' de Occupy movement. Man! When Raz'tus Baldwin wants'ed t'scribble some cell-phone version uh de Sucka's’s Microphone, used by Occupy t'pass messages around big crowds, he posted his code straight t'GitHub. Co' got d' beat! De site let him share his code easily, and quickly connect wid oda' developuh's t'hamma' out technical issues. “GitHub be de best doodad ever. Ah be baaad... If ya' don’t host on GitHub, it duzn’t 'esist,” says Baldwin, some student at Parsons de New Farm fo' Design in New Yo'k. Ya' know? 
+
+And software be only part uh de sto'y. Slap mah fro! Geeks is learnin' dat GitHub kin help manage oda' projects as well. Scribblin's and even transcripts uh talks gots popped down on de site. One GitHub user, Manu Spo'ny, published his DNA info'mashun t'de site last year, in de hope uh spurrin' development uh open-source DNA analysis software by providin' real test data t'analyze. 
+
+When Scott Chacon wrote some scribblin' about Git, de fust fo'k appeared widin some mond. It wuz some German translashun uh his scribblin'. Now, dree years later, it’s been translated into 10 languages, wid anoda' 10 translashuns in de wo'ks. Half uh de traffic t'de scribblin'’s website comes fum China. WORD! “Tons uh sucka's in China is learnin' Git cuz' dey kin eyeball [de scribblin'] in Chinese on mah' website, cuz' some fool provided dat,” he says. 
+
+Ryan Blair, some technologist wid de New Yo'k State Senate, dinks it could even cut citizens some way t'fo'k de law — proposin' deir own amendments t'elected officials. A tool likes GitHub could also make it easia' fo' constituents t'track and even voice deir opinions on changes t'complex legal code. “When ya' real dink about it, some bill be a branch uh de law,” he says. “I’m plum in love wid de idea uh a constituent bein' able t'drow deir state senato' some pull request. Man!” 
+
+GitHub today be de darlin' uh de open-source wo'ld, but dis year, de company gots set its sights on Microsoft. Man! De company recently hired some pair uh developuh's fum de software giant, and it’s wo'kin' on new software t'rope in de still-considerable army uh coders who scribble honky codes usin' Microsoft’s software development tools. 
+
+“I wanna live in some wo'ld where it’s easia' to wo'k togeda' dan t'wo'k alone… where every part uh de software development process be a joy,” says CEO Wanstrad. “And ah' dink GitHub kin help make dat happen. 'S coo', bro.” 
+
+
+SIDEBAR: 
+
+Why Git? It’s de British slang term fo' stupid, despicable sucka' — arse. De joke “I dojigger all mah' projects fo' mah'self, fust Linux, den git” wuz plum too baaaad t'pass down. But it be also sho't, easy-to-say, and type on some standard keybo'd. And reasonably unique and not any standard command, which be unusual.–Linus To'valds
