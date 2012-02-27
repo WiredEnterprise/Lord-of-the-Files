@@ -83,11 +83,11 @@ Git Without the ‘Pain in the Ass’
 
 [[The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”]]
 
-The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
+O problema é que nem todo mundo é Linus Torvalds, e nem toda empresa é o Google. Para os 99 porcento, a interface da linha de comando do Git é conhecido por ser dificil de usar. É aí que entra o GitHub. Ele simplifica o Git. Muito. O seu primeiro sloga era: “Git hosting: No Longer a pain in the ass.” (Tradução não literal: “Git hosting: Não é mais um pé no saco.”)
 
 [[Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.]]
 
-Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.
+Tom Preston-Werner idealizou o GitHub e puxou Chris Wanstrath para o projeto em uma noite de OUtubro de 2007 em um encontro de programadores no Zeke’s, um bar de esportes em San Francisco há algumas quadras do estádio do centro da cidade onde os San Francisco Giants jogam.
 
 [[At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.]]
 
