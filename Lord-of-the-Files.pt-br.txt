@@ -95,7 +95,7 @@ Em um primeiro momento, o Github era um projeto paralelo. Wanstrath e Preston-We
 
 [[By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”]]
 
-By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”
+Em Janeiro de 2008, Hyett estava a bordo. E três mêses depois daquela noite no bar de esportes, Wanstrath recebeu uma mensagem de Geoffrey Grosenbach, o fundador do PeepCode, um site de aprendizado online que começou a usar o GitHub. “Eu estou hospedando o código da minha empresa aqui,” Grosenbach falou. “Eu não me sinto confortável em não pagar vocês. Posso enviar um cheque?”
 
 [[It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.]]
 
