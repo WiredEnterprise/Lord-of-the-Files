@@ -107,7 +107,7 @@ It was the first of many. In July 2008, Microsoft acquired Powerset, the startup
 
 [[When Wired visited GitHub’s offices earlier this year, we found a bit of a geeks’ paradise. There’s an iPhone-controlled quadcopter and a four-tap kegerator, and a conference room that’s a low-budget knockoff of the White House’s situation room, complete with a massive 1970's style red phone. But the toys aren’t what makes GitHub different. It’s the startup’s outright hostility toward corporate command-and-control that really sets it apart.]]
 
-When Wired visited GitHub’s offices earlier this year, we found a bit of a geeks’ paradise. There’s an iPhone-controlled quadcopter and a four-tap kegerator, and a conference room that’s a low-budget knockoff of the White House’s situation room, complete with a massive 1970's style red phone. But the toys aren’t what makes GitHub different. It’s the startup’s outright hostility toward corporate command-and-control that really sets it apart.
+Quando a Wired visitou o escritório do GitHub no início deste ano, nós encontramos uma espécie de um paraíso para geeks. Tem um quadcoptero controlado por um iPhone e um kegerator com quatro torneiras, e uma sala de reuniões que é uma imitação de baixo orçamento da "sala de situação" da Casa Branca, completa com um  telefone vermelho estilo anos 70. Mas os brinquedos não são o que fazem o GitHub diferente. É a hostilidade de uma startup em relação ao comando e controle corporativo que os distingue. 
 
 [[“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”]]
 
