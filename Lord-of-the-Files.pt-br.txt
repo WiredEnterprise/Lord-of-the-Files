@@ -79,7 +79,7 @@ Ele pode ter até ter sido criado para o Linux, mas o Git rapidamente provou ser
 
 [[Git Without the ‘Pain in the Ass’]]
 
-Git Without the ‘Pain in the Ass’
+Git sem o "Pé no Saco"
 
 [[The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”]]
 
