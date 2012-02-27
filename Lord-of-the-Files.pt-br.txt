@@ -127,7 +127,7 @@ Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up
 
 [[Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.]]
 
-Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.
+Apesar disto, ironicamente, os fãs vitalícios do GitHub não incluem Torvalds, que recentemente moveu o desenvolvimento do Kernel Linux para o GitHub setembro passado, depois de uma falha de segurança na antiga casa. 
 
 [[“I like GitHub a lot,” he says. “There’s a reason it became one of the biggest source code repositories rather quickly.” But he then unfurls a long list of all the “serious” problems he had with it when he hosted his code on the site — many of which have since been fixed. He couldn’t filter comments, the e-mail interface dropped attachments, the web interface messed up code contributions, and so on. The bottom line: GitHub makes it easy to code. But it can also make it easy to generate crap.]]
 
