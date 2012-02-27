@@ -115,7 +115,7 @@ When Wired visited GitHub’s offices earlier this year, we found a bit of a gee
 
 [[And yet it’s the most productive software development team he’s ever worked on, Chacon says.]]
 
-And yet it’s the most productive software development team he’s ever worked on, Chacon says.
+E ainda assim é o mais produtivo time de desenvolvimento de software que ele já trabalhou, diz Chacon.
 
 [[Git to the Future]]
 
