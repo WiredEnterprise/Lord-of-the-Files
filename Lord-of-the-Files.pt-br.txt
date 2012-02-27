@@ -1,4 +1,8 @@
-﻿O senhor dos arquivos: Como o GitHub domesticou o Software Livre (E Mais)
+﻿[[Lord of the Files: How GitHub Tamed Free Software (And More)]]
+
+O senhor dos arquivos: Como o GitHub domesticou o Software Livre (E Mais)
+
+[[By Robert McMillan, Wired Enterprise]]
 
 por Robert McMillan, Wired Enterprise
 
@@ -43,31 +47,31 @@ Assim como outros projetos de geeks que tivemos sucesso, o GitHub começou com d
 
 [[As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.]]
 
-As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.
+Enquanto eles construiam os sites no Cnet, Wanstrath e Hyett acabaram implementando muitas melhorias no Ruby on Rails. Mas eles descobriram que não era tão fácil fazer com que essas melhorias fossem integradas no código fonte do projeto software-livre. Para fazer com que uma alteração fosse incluida no repositório central, Wanstrath e Hyett tiveram que convencer um dos desenvolvedores de confiança daquele projeto para que a mudança deles valesse a pena e fosse integrada. Esse trabalho normalmente levava mais tempo do que desenvolver a melhoria.
 
 [[They weren’t the only developers chafing under that Trusted Gatekeeper model of open source. A decade ago, Linus Torvalds found himself struggling to manage his role as gatekeeper of the Linux operating system he invented. In the beginning, Torvalds hosted Linux on a website belonging to the University of Helsinki. If people found a bug in the code, they’d send him a file with the changes via e-mail. If Torvalds read the e-mail and liked the changes, he’d incorporate them into Linux. But Torvalds is notorious for not reading all of his e-mail, so as the project got popular, more and more submissions were slipping through the cracks.]]
 
-They weren’t the only developers chafing under that Trusted Gatekeeper model of open source. A decade ago, Linus Torvalds found himself struggling to manage his role as gatekeeper of the Linux operating system he invented. In the beginning, Torvalds hosted Linux on a website belonging to the University of Helsinki. If people found a bug in the code, they’d send him a file with the changes via e-mail. If Torvalds read the e-mail and liked the changes, he’d incorporate them into Linux. But Torvalds is notorious for not reading all of his e-mail, so as the project got popular, more and more submissions were slipping through the cracks.
+Eles não eram os únicos desenvolvedores impacientes que precisavam de um intermediário de confianca para contribuir com o software livre. Uma década atrás, Linus Torvalds estava lutando para lidar com a sua posição de guardião do sistema operacional Linux, que ele inventou. No começo, Torvalds hospedava o Linux em um website que pertencia a Universidade de Helsinki. Se as pessoas encontrassem um problema no código, elas tinham que enviar para ele o arquivo com as alterações via e-mail. Se Torvalds lesse o email e gostasse das alterações ele incorporava as mudanças no Linux. Mas Torvalds é notóriamente conhecido por não ler todos os seus emails, então quando o projeto se popularizou, mais e mais emails de sugestões e correções acabaram sendo perdidos.
 
 [[This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.]]
 
-This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.
+Esse era o segredo escuso do software livre. Como a média dos projetos de software livre, grandes quantidades de código - talvez até maioria do código - nunca foi de fato utilizado. Normalmente era muito díficil para que os usuários mostrassem aos desenvolvedor as suas alterações e que eles integrassem as alterações de volta ao respositório que continha o código do projeto open-source.
 
 [[The Second Coming of Linus]]
 
-The Second Coming of Linus
+A segunda aparição de Linus
 
 [[So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.]]
 
-So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.
+Então em 2005, Torvalds criou Git, um software para controle de versão projetado específicamente para remover o árduo trabalho de gerenciar projetos de software livre. Usando Git, qualquer um poderia trabalhar com a sua própria versão do Linux - ou de qualquer outro projeto de software - e então, com o clique de um botão, compartilhar essas alterações com Torvalds ou qualquer outra pessoa. Não existe nenhum guardião do código fonte. Em termos práticos, Torvalds criou uma ferramenta que possibilita e facilita que outras pessoas criem versões alternativas do seu projeto Linux. Em termos técnicos, chamamos isto de criar um "fork".
 
 [[Back in the 1990s, forking was supposed to be a bad thing. It’s what created all of those competing, incompatible versions of Unix. For a while, there was a big fear that someone would somehow create their own fork of Linux, a version of the operating system that wouldn’t run the same programs or work in the same way. But in the Git world, forking is good. The trick was to make sure the improvements people worked out could be shared back with the community. It’s better to let people fork a project and tinker away with their own changes, than to shut them out altogether by only letting a few trusted authorities touch the code.]]
 
-Back in the 1990s, forking was supposed to be a bad thing. It’s what created all of those competing, incompatible versions of Unix. For a while, there was a big fear that someone would somehow create their own fork of Linux, a version of the operating system that wouldn’t run the same programs or work in the same way. But in the Git world, forking is good. The trick was to make sure the improvements people worked out could be shared back with the community. It’s better to let people fork a project and tinker away with their own changes, than to shut them out altogether by only letting a few trusted authorities touch the code.
+Em 1990, forking era considerado uma coisa ruim. Foi o que criou toda a competição, versões incompatíveis de Unix. Por um momento, houve um grande temor que alguem criasse o próprio fork do Linux, uma versão do sistema operacional que não executaria os mesmos programas ou que não funcionasse do mesmo modo. Mas no mundo do Git, forking é bom. O segredo era garantir que as melhorias que as pessoas estavam trabalhando pudessem ser compartilhadas com o resto da comunidade. É melhor que várias pessoas façam o fork de um projeto e cada uma contribua do seu jeito com as suas mudanças do que silenciar a todos, permitindo que apenas poucos contribuidores confiáveis possam tocar no código fonte.
 
 [[On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.]]
 
-On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.
+Em um raro dia ensolarado em Fevereiro na cidade de Portland, Torvalds demonstrou Git para Wired no seu home-office. Com apenas algumas teclas, ele rapidamente identificou duas novas submissões de kernal que alteraram código fonte relacionado ao kernal de maneiras diferentes, seria uma possível fonte de problemas.
 
 [[The old regime “makes it very hard to start radical new branches because you generally need to convince the people involved in the status quo up-front about their need to support that radical branch,” Torvalds says. “In contrast, Git makes it easy to just ‘do it’ without asking for permission, and then come back later and show the end result off — telling people ‘look what I did, and I have the numbers to show that my approach is much better.’”]]
 
@@ -75,75 +79,75 @@ The old regime “makes it very hard to start radical new branches because you g
 
 [[It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. ]]
 
-It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. 
+Ele pode ter até ter sido criado para o Linux, mas o Git rapidamente provou ser uma dádiva para qualquer grande organização que gerencia grandes code bases. Hoje, Facebook, Staples, Verizon e até a Microsoft são usuários. No Google, o Git é tão importante que a empresa paga Junio Hamana - que assumiu o controle do projeto de Torvalds - para trabalhar no Git em tempo integral, e também paga o salário do segundo homem no comando do projeto, Shawn Pearce.
 
 [[Git Without the ‘Pain in the Ass’]]
 
-Git Without the ‘Pain in the Ass’
+Git sem o "Pé no Saco"
 
 [[The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”]]
 
-The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
+O problema é que nem todo mundo é Linus Torvalds, e nem toda empresa é o Google. Para os 99 porcento, a interface da linha de comando do Git é conhecido por ser dificil de usar. É aí que entra o GitHub. Ele simplifica o Git. Muito. O seu primeiro sloga era: “Git hosting: No Longer a pain in the ass.” (Tradução não literal: “Git hosting: Não é mais um pé no saco.”)
 
 [[Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.]]
 
-Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.
+Tom Preston-Werner idealizou o GitHub e puxou Chris Wanstrath para o projeto em uma noite de Outubro de 2007 em um encontro de programadores no Zeke’s, um bar de esportes em San Francisco há algumas quadras do estádio do centro da cidade onde os San Francisco Giants jogam.
 
 [[At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.]]
 
-At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.
+Em um primeiro momento, o Github era um projeto paralelo. Wanstrath e Preston-Werner se encontravam aos Sábados para fazer um brainstorm, enquanto programavam no seu tempo livre e trabalhavam no seu trabalho diário. “GitHub não era para ser uma startup ou uma empresa. GitHub era apenas uma ferramenta que nós precisávamos,” conta Wanstrath. Mas — inspirados pelo Gmail — eles fizeram um projeto um beta privado e abriram para os outros. Logo o projeto pegou no mundo exterior.
 
 [[By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”]]
 
-By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”
+Em Janeiro de 2008, Hyett estava a bordo. E três mêses depois daquela noite no bar de esportes, Wanstrath recebeu uma mensagem de Geoffrey Grosenbach, o fundador do PeepCode, um site de aprendizado online que começou a usar o GitHub. “Eu estou hospedando o código da minha empresa aqui,” Grosenbach falou. “Eu não me sinto confortável em não pagar vocês. Posso enviar um cheque?”
 
 [[It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.]]
 
-It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.
+Foi a primeiro de muitos. Em julho de 2008, Microsoft adquiriu Powerset, a startup que estava provendo um trabalho durante o dia para Preston-Werner. A gigante de software oferecer a Preston-Werner um bônus de $300,000 dólares e ações para ele ficar na empresa por mais três anos. Mas ele saiu da empresa, apostando tudo no GitHub.
 
 [[“It was a little scary at the time to give up something like that, but I would not change anything about that decision at all,” he says now.]]
 
-“It was a little scary at the time to give up something like that, but I would not change anything about that decision at all,” he says now.
+“Foi um pouco assutador que desistir de algo como aquilo, mas eu não mudaria nada sobre aquela decisão", ele diz agora.
 
 [[When Wired visited GitHub’s offices earlier this year, we found a bit of a geeks’ paradise. There’s an iPhone-controlled quadcopter and a four-tap kegerator, and a conference room that’s a low-budget knockoff of the White House’s situation room, complete with a massive 1970's style red phone. But the toys aren’t what makes GitHub different. It’s the startup’s outright hostility toward corporate command-and-control that really sets it apart.]]
 
-When Wired visited GitHub’s offices earlier this year, we found a bit of a geeks’ paradise. There’s an iPhone-controlled quadcopter and a four-tap kegerator, and a conference room that’s a low-budget knockoff of the White House’s situation room, complete with a massive 1970's style red phone. But the toys aren’t what makes GitHub different. It’s the startup’s outright hostility toward corporate command-and-control that really sets it apart.
+Quando a Wired visitou o escritório do GitHub no início deste ano, nós encontramos uma espécie de um paraíso para geeks. Tem um quadcoptero controlado por um iPhone e um kegerator com quatro torneiras, e uma sala de reuniões que é uma imitação de baixo orçamento da "sala de situação" da Casa Branca, completa com um  telefone vermelho estilo anos 70. Mas os brinquedos não são o que fazem o GitHub diferente. É a hostilidade de uma startup em relação ao comando e controle corporativo que os distingue. 
 
 [[“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”]]
 
-“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”
+“Nós não mantemos controle sobre dias de férias; nós não mantemos controle das horas. Isto não importa para a gente", diz o CIO Scott Chacon. “Já estive aqui meia noite e tinham cinco pessoas por aqui. E eu já estive aqui no meio do dia de uma quinta-feira e não tinha ninguém". 
 
 [[And yet it’s the most productive software development team he’s ever worked on, Chacon says.]]
 
-And yet it’s the most productive software development team he’s ever worked on, Chacon says.
+E ainda assim é o mais produtivo time de desenvolvimento de software que ele já trabalhou, diz Chacon.
 
 [[Git to the Future]]
 
-Git to the Future
+Git para o futuro
 
 [[Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up for free and start contributing, but they pay money if they want to privately host code there — starting at $7 per month. GitHub also sells an enterprise product that lets companies run your own version of GitHub behind the corporate firewall. That starts at $5,000 per year, but can cost hundreds of thousands annually for companies with hundreds of coders.]]
 
-Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up for free and start contributing, but they pay money if they want to privately host code there — starting at $7 per month. GitHub also sells an enterprise product that lets companies run your own version of GitHub behind the corporate firewall. That starts at $5,000 per year, but can cost hundreds of thousands annually for companies with hundreds of coders.
+A aposta de Preston-Werner se pagou. O GitHub é agora lucrativo. Usuários podem se registrar gratuitamente e começar a contribuir, mas eles podem pagar dinheiro se quiserem hospedar código privado por lá — iniciando em $7 dólares por mês. O GitHub também vende uma versão enterprise do produto que permite as empresas rodarem sua própria versão do GitHub atrás do seu firewall corporativo. Esta inicia em $5,000 dólares por ano, mas pode custar centenas de milhares de dólares anualmente para empresas com centenas de desenvolvedores. 
 
 [[Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.]]
 
-Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.
+Apesar disto, ironicamente, os fãs vitalícios do GitHub não incluem Torvalds, que recentemente moveu o desenvolvimento do Kernel Linux para o GitHub setembro passado, depois de uma falha de segurança na antiga casa. 
 
 [[“I like GitHub a lot,” he says. “There’s a reason it became one of the biggest source code repositories rather quickly.” But he then unfurls a long list of all the “serious” problems he had with it when he hosted his code on the site — many of which have since been fixed. He couldn’t filter comments, the e-mail interface dropped attachments, the web interface messed up code contributions, and so on. The bottom line: GitHub makes it easy to code. But it can also make it easy to generate crap.]]
 
-“I like GitHub a lot,” he says. “There’s a reason it became one of the biggest source code repositories rather quickly.” But he then unfurls a long list of all the “serious” problems he had with it when he hosted his code on the site — many of which have since been fixed. He couldn’t filter comments, the e-mail interface dropped attachments, the web interface messed up code contributions, and so on. The bottom line: GitHub makes it easy to code. But it can also make it easy to generate crap.
+“Eu gosto muito do GitHub", ele diz. “Tem uma razão para ter se tornado um dos maiores repositórios de código fonte bastante depressa”. Mas depois ele abre uma longa lista de todos problemas "sérios" que ele teve quando hospedou seu código fonte no site - vários que já foram corrigidos. Ele não conseguia filtrar comentários, a interface de e-mail perdia anexos, a interface bagunçou contribuições, e por aí vai. Em resumo: o GitHub facilita o trabalho de codificação. Mas também pode facilitar a geração de porcarias.
 
 [[That may be true, but it hasn’t held the site back. GitHub users are seemingly everywhere. On recent afternoon in San Francisco’s North Beach neighborhood, Wired was discussing the site with GitHub director of engineering Ryan Tomayko. Suddenly the guy at the next table leaned over and interrupted, like a teenager overhearing two strangers talk about his favorite band. “I just have to tell you,” he said, “GitHub is amazing.”]]
 
-That may be true, but it hasn’t held the site back. GitHub users are seemingly everywhere. On recent afternoon in San Francisco’s North Beach neighborhood, Wired was discussing the site with GitHub director of engineering Ryan Tomayko. Suddenly the guy at the next table leaned over and interrupted, like a teenager overhearing two strangers talk about his favorite band. “I just have to tell you,” he said, “GitHub is amazing.”
+Isto até pode ser verdade, mas não tem segurado o site. Usuários do GitHub estão por toda a parte. Em uma tarde recente no bairro North Beach de São Francisco,  a Wired estava discutindo sobre o site com o diretor de engenharia Ryan Tomayko. De repente uma pessoa na mesa ao lado inclinou-se e interrompeu, como um adolescente ouvindo dois estranhos falando sobre a sua melhor banda. “Eu tenho que dizer para você", ele disse, "O GitHub é demais".
 
 [[It’s even feeding the Occupy movement. When Jonathan Baldwin wanted to write a cell-phone version of the People’s Microphone, used by Occupy to pass messages around big crowds, he posted his code straight to GitHub. The site let him share his code easily, and quickly connect with other developers to hammer out technical issues. “GitHub is the best thing ever. If you don’t host on GitHub, it doesn’t exist,” says Baldwin, a student at Parsons the New School for Design in New York.]]
 
-It’s even feeding the Occupy movement. When Jonathan Baldwin wanted to write a cell-phone version of the People’s Microphone, used by Occupy to pass messages around big crowds, he posted his code straight to GitHub. The site let him share his code easily, and quickly connect with other developers to hammer out technical issues. “GitHub is the best thing ever. If you don’t host on GitHub, it doesn’t exist,” says Baldwin, a student at Parsons the New School for Design in New York.
+Está até mesmo alimentando o movimento Occupy. Quando Jonathan Baldwin quis escrever uma versão para celular do People’s Microphone, usado pelo Occupy para enviar mensagens em grandes multidões, ele postou o código fonte direto no GitHub. O site deixou ele compartilhar o código de forma simples, e rapidamente conectou com outros desenvolvedores para resolver problemas técnicos. “GitHub é a melhor coisa já criada. Se você não hospeda no GitHub, não existe", diz Baldwin, um estudante da escola de design Parsons, de Nova Iorque.
 
 [[And software is only part of the story. Geeks are learning that GitHub can help manage other projects as well. Books and even transcripts of talks have popped up on the site. One GitHub user, Manu Sporny, published his DNA information to the site last year, in the hope of spurring development of open-source DNA analysis software by providing real test data to analyze.]]
 
-And software is only part of the story. Geeks are learning that GitHub can help manage other projects as well. Books and even transcripts of talks have popped up on the site. One GitHub user, Manu Sporny, published his DNA information to the site last year, in the hope of spurring development of open-source DNA analysis software by providing real test data to analyze.
+E software era apenas parte da história. Geeks estão aprendendo que o GitHub pode ajudar outros tipos de projetos também. Livros e transcrições de palestras apareceram no site. Um dos usuários do GitHub, Manu Sporny, publicou a informação do seu DNA no site ano passado, na esperança de estimular o desenvolvimento de uma ferramenta de análise de DNA open-source provendo dados reais para serem analisados. 
 
 [[When Scott Chacon wrote a book about Git, the first fork appeared within a month. It was a German translation of his book. Now, three years later, it’s been translated into 10 languages, with another 10 translations in the works. Half of the traffic to the book’s website comes from China. “Tons of people in China are learning Git because they can read [the book] in Chinese on my website, because somebody provided that,” he says.]]
 
