@@ -91,7 +91,7 @@ Tom Preston-Werner idealizou o GitHub e puxou Chris Wanstrath para o projeto em 
 
 [[At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.]]
 
-At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.
+Em um primeiro momento, o Github era um projeto paralelo. Wanstrath e Preston-Werner se encontravam aos Sábados para fazer um brainstorm, enquanto programavam no seu tempo livre e trabalhavam no seu trabalho diário. “GitHub não era para ser uma startup ou uma empresa. GitHub era apenas uma ferramenta que nós precisávamos,” conta Wanstrath. Mas — inspirados pelo Gmail — eles fizeram um projeto um beta privado e abriram para os outros. Logo o projeto pegou no mundo exterior.
 
 [[By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”]]
 
