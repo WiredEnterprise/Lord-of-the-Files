@@ -87,7 +87,7 @@ O problema é que nem todo mundo é Linus Torvalds, e nem toda empresa é o Goog
 
 [[Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.]]
 
-Tom Preston-Werner idealizou o GitHub e puxou Chris Wanstrath para o projeto em uma noite de OUtubro de 2007 em um encontro de programadores no Zeke’s, um bar de esportes em San Francisco há algumas quadras do estádio do centro da cidade onde os San Francisco Giants jogam.
+Tom Preston-Werner idealizou o GitHub e puxou Chris Wanstrath para o projeto em uma noite de Outubro de 2007 em um encontro de programadores no Zeke’s, um bar de esportes em San Francisco há algumas quadras do estádio do centro da cidade onde os San Francisco Giants jogam.
 
 [[At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.]]
 
@@ -99,7 +99,7 @@ Em Janeiro de 2008, Hyett estava a bordo. E três mêses depois daquela noite no
 
 [[It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.]]
 
-It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.
+Foi a primeiro de muitos. Em julho de 2008, Microsoft adquiriu Powerset, a startup que estava provendo um trabalho durante o dia para Preston-Werner. A gigante de software oferecer a Preston-Werner um bônus de $300,000 dólares e ações para ele ficar na empresa por mais três anos. Mas ele saiu da empresa, apostando tudo no GitHub.
 
 [[“It was a little scary at the time to give up something like that, but I would not change anything about that decision at all,” he says now.]]
 
