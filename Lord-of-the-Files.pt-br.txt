@@ -111,7 +111,7 @@ When Wired visited GitHub’s offices earlier this year, we found a bit of a gee
 
 [[“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”]]
 
-“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”
+“Nós não mantemos controle sobre dias de férias; nós não mantemos controle das horas. Isto não importa para a gente", diz o CIO Scott Chacon. “Já estive aqui meia noite e tinham cinco pessoas por aqui. E eu já estive aqui no meio do dia de uma quinta-feira e não tinha ninguém". 
 
 [[And yet it’s the most productive software development team he’s ever worked on, Chacon says.]]
 
