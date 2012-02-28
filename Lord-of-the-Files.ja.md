@@ -72,7 +72,7 @@ Git を使えば、誰もが自分バージョンの Linux をいじることが
 こう言うわけさ。「僕のやったことを見てくれ。僕のやりかたがずっといいことを表す数字もあるよ。」
 
 Linux 向けに開発された面はあるかもしれないが、 Git は巨大なコードベースを保持する大きな組織にとっての福音であることがすぐに証明された。
-今日では Facebook, Staples, Verison そして Microsoft までもがユーザーだ。Google では Git の重要性があまりに高いため Junio Hamano に給料を払っている。
+今日では Facebook, Staples, Verizon そして Microsoft までもがユーザーだ。Google では Git の重要性があまりに高いため Junio Hamano に給料を払っている。
 彼は Torvalds からプロジェクトを引き継ぎ、フルタイムで Git の開発に従事している。プロジェクトの右腕 Shawn Pearce も Google に雇われている。
 
 「小骨」をとった Git
