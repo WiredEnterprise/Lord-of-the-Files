@@ -1,0 +1,88 @@
+Failide isand ehk kuidas GitHub taltsutas vabavara (ja muudki)
+Autor Robert McMillan, Wired Enterprise
+
+SAN FRANCISCO — Pärast South-of-Market ruumidesse kolimist eelmisel aastal oli esmajärjekorras vaja remonti teha. Korruse suurim tuba kujundati direktorikabineti paroodiaks - võltskamin, luksuslik nahkmööbel ja puitgloobus, mille avamisel võib leida viskipudeli. Seinal on maal Napoleoniks riietatud viie jala või pigem haarmega kassist - Oktokassist.
+
+Kuid tegelikult ei ole tegemist üldsegi direktorikabinetiga. See on hoopis koosolekuruum, kus võib kas koos teistega tööd teha või pisut lõõgastuda.
+
+"Igaüks võib oma sõbrad mulje avaldamiseks sinna tuua," lausub Scott Chacon, GitHub CIO ja kaasasutaja. Sest Chacon-il ja tegevjuht Chris Wanstrath-il ning ülejäänud juhtkonnal puuduvad oma kabinetid sootuks. Nad töötavad kõrvuti arendajatega, kuulates LCD Soundsystem tulevat muusikat. Valjusti.
+
+GitHub nohktastiline 1300m2 kontor on nende missiooni peegeldus: demokratiseerida tarkvaraarendus. GitHub võiks nimetada nohikute Facebook-ks. Aga oma kassi piltide üles laadimise asemel laetakse üles lähtekoodi. Igaüks võib kellegi teise koodi kommenteerida, seda täiendada ja arendada sellest midagi ägedamat. Nipp on selles, et arendustegevus on hajutatud, andes kõigile enneolematu võimu. GitHub on radikaalselt muutnud viisi, kuidas tarkvara luuakse, muutes arendustegevuse natuke anarhilisemaks, palju lõbusamaks ja suurel määral produktiivsemaks.
+
+Ja tarkvaramaailm armastab seda. GitHub-l on hetkel 1,3mln kasutajat ja üle 2mln lähtekoodirepositooriumi - ligi 8x rohkem kui kaks aastat tagasi. Kui arvestada ka postitatud koodijuppe ja vikilehti, siis on süsteemis üle 4mln repositooriumi. Kaks aastat tagasi oli GitHub meeskond 8-liikmeline ja pidas oma koosolekuid San Francisco kohvikutes. 2011 alguseks oli "hubbernaute" (nagu GitHub töötajad endale hüüdnimeks on pannud) 14 ja aasta hiljem on neid 57. Juulis võeti üle ajaveebnike Six Apart endised ruumid. GitHub kasvab kiiresti ja neisse ei ole paigutatud sentigi riskikapitali.
+
+Kui oled korra GitHub-st kuulnud, siis hakkad seda igal pool nägema. Seal hoitakse populaarse veebikülje lähtekoodi. Teisal on see Fortune 500 ettevõtte ülisalajase arendusprojekti aluseks. GitHub on viinud avatud koodiga tarkvara oma eesmärgile palju lähemale, aga nad ei piirdu sellega. GitHub on demokratiseerinud nii veebilehtede loomise, DNA analüüsi kui ka võib-olla edaspidi seadusloome.
+
+"GitHub on muutnud viisi, kuidas inimesed arendamisele lähenevad," ütleb Tom Preston-Werner, ettevõtte peatehnoloog. "Nad jõuavad arusaamisele, et see võib olla lihtsam."
+
+
+Git lahendab probleemi
+
+Nagu paljud eelnevad edukad projektid, sai GitHub alguse arendajate püüdest oma probleeme lahendada. Umbes viis aastat tagasi arendasid Wanstrath ja tema kaastöötaja P.J. Hyett Cnet tehnikauudiste ja -arvustuste saiti. Nende arendusvahendiks oli Ruby on Rails, mis võimaldab hõlpsasti veebirakendusi arendada.
+
+Töö käigus tegid Wanstrath ja Hyett täiendusi ka Ruby on Rails lähtekoodi, kuid nad avastasid, et nende muudatuste projekti sisse viimine oli keeruline. Tollal käis Ruby on Rails arendus nagu senimaani vabavaraliste projektide juures kombeks - Rails koodi haldas käputäis arendajaid, kes olid ära teeninud õiguse projekti lähtekoodi muudatusi lisada. Et oma muudatused projekti sisse saada, pidid Wanstrath ja Hyett veenma mõnd taolist arendajat, et nende panus vääris projekti lisamist. Tihtipeale nõudis see rohkem aega kui koodi kirjutamine.
+
+Nad ei olnud ainsad arendajad, kes vaevlesid "usaldusväärse uksehoidja" arendusmudeli ikkes. Umbes kümme aastat tagasi leidis Linus Torvalds, et tema leiutatud operatsioonisüsteemi Linux lähtekoodi haldamine hakkas talle üle jõu käima. Algselt hoiti Linux lähtekoodi Helsinki Ülikooli veebilehel. Kui keegi leidis koodist vea, siis saadeti muudetud koodijupp talle e-postiga. Kui Torvalds seda sõnumit luges ja selles leiduv muudatus talle vastuvõetav oli, lisas ta selle Linuxisse. Aga kuna Torvalds oli kurikuulus selle poolest, et ta kõiki oma e-posti sõnumeid ei lugenud, siis jäi järjest rohkem ja rohkem parandusettepanekuid tähelepanuta.
+
+See oli avatud koodiga tarkvaraarenduse väike räpane saladus. Keskmise avatud koodiga tarkvaraprojekti juures oli palju koodi - ehk isegi enamus koodist - selline, mida kunagi ei kasutatud. Tihtipeale oli kasutajatel liiga keeruline arendajatele oma tehtud parandusi näidata ja neid ka lähtekoodi sisse viia.
+
+
+Linuse teine tulemine
+
+Nii arendaski Torvalds 2005. aastal programmi Git, versioonihalduse tarkvara, mille eesmärgiks oli vähendada projekti haldamiseks kuluvat aega. Git kasutades võis igaüks Linuxist (või mõńest teisest projektist) oma versiooni teha ja seejärel mõne nupuvajutusega tehtud muudatusi Torvaldsi või kellegi teisega jagada. Keegi ei olnud enam "uksehoidja". Praktiliselt võimaldas Torvaldsi loodud vahend soovijatel Linuxist alternatiivse versiooni ehk "haru" teha.
+
+90ndatel peeti harutamist halvaks asjaks. See oli just see, mis tekitas mitmed, omavahel ühildamatud UNIX versioonid. Mõnda aega kardeti, et kui keegi Linuxist oma versiooni loob, siis varsti see ei jooksutaks enam samu programme või töötaks kuidagi teistmoodi. Aga Git maailmas on harutamine hea. Nipp peitus selles, et tuli tagada, et mujal tehtud muudatused oleks hõlpsasti originaali tagasi kantavad. Parem on lasta inimestel projektist oma versioon teha ja selle kallal nikerdada, kui keelata igasugune isetegevus ja lasta muudatusi teha ainult valitud seltskonnal.
+
+Ühel erandlikult päikeselisel veebruaripäeval demonstreerib Torvalds oma Portlandi kontoris Git-i Wired-le. Mõne nupuvajutusega leiab ta kiiresti kaks Linux tuuma tehtud muudatust, mis puudutavad sama koodi erineval viisil ja võivad osutuda probleemseks.
+
+Vana kord "teeb suurte muudatustega uute harude tekitamise keeruliseks, sest reeglina tuleb projekti haldajad juba ette nende suurte muudatustega nõusse saada," ütleb Torvalds. "Git seevastu võimaldab inimestel lihtsalt oma asja teha ja siis hiljem tulla ja oma loomingut näidata - 'vaata mis me tegime ja testid näitavad, et meie lähenemine on parem'"
+
+Git loodi Linuxi arendamiseks, kuid see osutus ka väga kasulikuks suurte organisatsioonide jaoks, kus hallati hiiglaslikke koodikogumeid. Täna kasutatakse Git-i Facebookis, Staplesis, Verizonis ja isegi Microsoftis. Google peab Git nii oluliseks, et Junio Hamano ja Shawn Pearce, Git peamised arendajad Torvaldsi asemel, on neil täiskohaga palgal.
+
+
+Valutu Git
+
+Probleem on selles, et igaüks ei ole Linus Torvalds ja mitte iga firma ei ole Google. 99% inimeste jaoks on Git käsurea kasutamine keeruline. Ja siin tulebki mängu GitHub, mis lihtsustab oluliselt Git kasutamist. Nende esimene tunnuslause oli: "Git hosting: nüüd ilma peavaluta."
+
+GitHub sündis San Francisco spordibaaris Zeke's, mis asub paari kvartali kaugusel San Francisco Giants meeskonna kodustaadionist. Ühel 2007. aasta oktoobriõhtul istusid seal koos arendajad ja nende hulgas ka Tom Preston-Werner, kelle peas GitHub esialgse kuju võttis. Seal rääkis ta nõusse ka Chris Wanstrathi.
+
+Algselt oli GitHub kõrvalprojekt. Wanstrath ja Preston-Werner kohtusid laupäeviti ajurünnakuteks ning kirjutasid koodi vabast ajast. "Me ei mõelnud GitHub-st kui idufirmast - GitHub oli lihtsalt vajalik tööriist," ütles Wanstrath. Saades innustust Gmailist avasid nad oma projekti privaatse beetaversioonina ka teistele.
+
+Jaanuaris 2008 oli ka Hyett kaasa löömas. Ja kolm kuud pärast toda õhtut spordibaaris sai Wanstrath sõnumi Geoffrey Grosenbachilt, PeepCode asutajalt. "Ma hoian seal oma firma koodi," teatas Grosenbach. "Seda tasuta tehes tunnen end ebamugavalt - kas ma võiks teile tšeki kirjutada?"
+
+See tšekk oli esimene paljudest. Juulis 2008 omandas Microsoft Powerset idufirma, kus Preston-Werner täiskohaga töötas. Tarkvarahiid pakkus Preston-Wernerile 300 000 USD boonust ja aktsiaoptsioone, et ta veel kolmeks aastaks palgale jääks. Aga ta lahkus töölt, panustades kõik GitHub-le.
+
+Praegu arvab ta: "Omal ajal oli millestki sellisest loobumine veidi hirmutav, aga ma ei kahetse seda otsust."
+
+Kui Wired GitHub kontorit sel aastal eelnevalt külastas, siis oli tegemist nohikute paradiisiga. iPhone abil juhitav nelikopter, nelja kraaniga õllenõu ning koosolekuruum, mis on Valge Maja operatiivkeskuse odav koopia (koos massiivse 70date stiilis punase telefoniga). Aga mitte lelud pole need, mis GitHub eristavad. Pigem on erisuseks idufirma lausa vaenulik suhtumine korporatiivsesse juhtimisse.
+
+"Me ei arvesta puhkusepäevi ega loe ka tunde - meid ei huvita see," räägib CIO Scott Chacon. "Olen siin olnud keskööl koos viie kollegiga ja olen siin olnud neljapäeva keskpäeval täiesti üksi."
+
+Aga ometi on see üks produktiivseimaid tarkvaraarendusmeeskondi, kus ta töötanud on.
+
+
+Tulevik Git-ga
+
+Preston-Werner risk õigustas end - GitHub on nüüdseks kasumlik. Kasutajad saavad end tasuta registreerida ja panustama hakata, aga nad peavad raha maksma (alates 7USD/kuus), kui soovivad oma isiklikku koodi ladustada. GitHub müüb ka firmadele mõeldud lahendust, mis võimaldab neil oma sisemist GitHub üleval hoida. See maksab alates 5000 USD aastas, aga võib sadade arendajate korral maksta ka sadu tuhandeid aastas.
+
+Kuigi eelmise aasta septembris hoiti seal lühidalt Linux tuuma lähtekoodi, ei ole Torvalds ise GitHub suur fänn.
+
+"Mulle meeldib GitHub väga," räägib ta. "GitHub pole asjata kiiresti üheks suurimaks koodihoidlaks saanud." Kuid sellele järgneb pikk nimekiri "tõsistest" probleemidest millega ta seda kasutades kokku puutus. Paljud neist on praeguseks juba kõrvaldatud. Näiteks puudus võimalus kommentaare filtreerida, e-posti liides kaotas manuseid, veebiliides rikkus lisatud koodi jne. Ehk siis kokkuvõtlikult - GitHub kergendab koodi kirjutamist, kuid sama moodi kergendab see ka halva koodi kirjutamist.
+
+See võib tõsi olla, kuid see ei ole GitHub arengut takistanud. GitHub kasutajaid on justkui kõikjal. Ühel hiljutisel õhtupoolikul vestlesime San Francisco North Beach rajoonis GitHub peatehnoloog Ryan Tomakoga. Äkki sekkus meie juttu kõrvallauas istunud mees olles justkui teismeline, kes kuuleb kedagi oma lemmikbändist rääkimas: "Ma lihtsalt pean mainima, et GitHub on suurepärane."
+
+GitHub aitab isegi Okupeeri liikumist. Kui Jonathan Baldwin tahtis kirjutada mobiilset versiooni Rahva Mikrofoni rakendusest, mida Okupeeri kasutab rahvakogunemistel sõnumite saatmiseks, postitas ta lähtekoodi otse GitHub-i, mis võimaldas tal koodi hõlpsasti jagada ning kaasata tehniliste probleemide kõrvaldamisse teisi arendajaid. "GitHub on parim asi üldse. Kui sa ei postita oma koodi GitHub-i, siis pole sind olemaski," ütleb Baldwin, kes on New Yorki Parsons Uue Disaini Kooli tudeng.
+
+Ja tarkvara on vaid osa asjast. Nohikud on taibanud, et GitHub aitab ka muude projektide haldamisel. Seal hoitakse nii raamatuid kui ka kõnede tekste. Üks GitHub kasutaja, Manu Sporny, avaldas seal eelmisel aastal oma DNA info, lootes reaalsete andmetega kaasa aidata avatud lähtekoodiga DNA analüüsi tarkvara loomisele.
+
+Kui Scott Chacon kirjutas Git raamatut, siis esimene haru (raamatu śaksakeelne tõlge) tekkis esimese kuu aja jooksul. Kolm aastat hiljem on raamatut tõlgitud kümnesse keelde ning veel kümme tõlget on valmimas. Pool raamatu veebilehele jõudvast liiklusest tuleb Hiinast. "Tohutu hulk hiinlasi õpivad Git kasutama, sest keegi tõlkis raamatu hiina keelde," mainib ta.
+
+Ryan Blair, New York osariigi senati tehnikaekspert, arvab, et GitHub võimaldaks kodanikel ka seadusandlust harutada, saates oma täiendused poliitikutele. Samuti kergendaks GitHub taoline vahend valijatel seaduste muudatuste jälgimist. "Õigupoolest pole eelnõu muud kui seaduse haru," ütleb ta. "Mulle meeldib hirmsasti mõte sellest, et valija saab senaatorile parandusettepaneku saata."
+
+GitHub on hetkel vaba lähtekoodiga tegelejate lemmik, kuid see aasta on firma Microsofti sihikule võtnud. Nad palkasid mõned endised Microsofti töötajad ning neil on töös tarkvara, mille kasutajateks loodetakse meelitada arvestatav hulk Microsofti arendusvahendite kasutajatest.
+
+"Ma tahan elada maailmas, kus koostöö on individualismist hõlpsam ja kus tarkvaraarendus on rõõm," lausub tegevjuht Wanstrath. "Ja ma arvan, et GitHub aitab sellise maailma tekkele kaasa."
+
+LISAPANEEL:
+
+Miks Git? See on briti slängisõna, mis tähistab rumalat, vastikut tegelast - jobu. Nali "Ma nimetan kõik projektid enda järgi - esiteks Linux, siis git" oli liiga hea, et seda kasutamata jätta. Samas on see lühike, kergesti hääldatav ning klaviatuuril hõlpsasti sisestatav. Ja enam-vähem unikaalne ning tavapärasest erinevalt ei ole sellenimelist standardprogrammi olemas. --Linus Torvalds
